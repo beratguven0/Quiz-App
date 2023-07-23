@@ -1,0 +1,27 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 1.5rem 4rem;
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
+  align-items: center;
+}
+
+.categories {
+  display: flex;
+  gap: 30px;
+}
+
+.logo {
+  font-size: 22px;
+  font-weight: bold;
+  border-bottom: 3px solid #ffffff;
+  padding: 0.4rem 0.8rem;
+  transition: 500ms ease-in-out;
+}
+
+.logo:hover {
+  padding: 0.4rem 2.5rem;
+  border-bottom: 3px solid rgb(255, 255, 255);
+  margin: 0 10px;
+}

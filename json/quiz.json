@@ -1,0 +1,2397 @@
+[
+  {
+    "id": "1",
+    "img": "https://legalyazilim.com/wp-content/uploads/2022/07/HTML-nedir-ne-ise-yarar.jpg",
+    "categories": "yazilim",
+    "name": "HTML soruları",
+    "difficulty": "Easy",
+    "question": [
+      {
+        "questionTitle": "HTML nedir?",
+        "choice1": "Hyper Text Markup Language",
+        "choice2": "Cascading Style Sheets",
+        "choice3": "JavaScript",
+        "choice4": "Python",
+        "reply": "Hyper Text Markup Language"
+      },
+      {
+        "questionTitle": "HTML'in açılımı nedir?",
+        "choice1": "Hyper Text Markup Language",
+        "choice2": "Cascading Style Sheets",
+        "choice3": "JavaScript",
+        "choice4": "Python",
+        "reply": "Hyper Text Markup Language"
+      },
+      {
+        "questionTitle": "HTML ile ilgili bir web sayfasının başlangıç etiketi hangisidir?",
+        "choice1": "<head>",
+        "choice2": "<html>",
+        "choice3": "<body>",
+        "choice4": "<title>",
+        "reply": "<html>"
+      },
+      {
+        "questionTitle": "HTML'de bir bağlantıyı yeni bir pencerede açmak için hangi hedef özelliği kullanılır?",
+        "choice1": "_self",
+        "choice2": "_blank",
+        "choice3": "_parent",
+        "choice4": "_top",
+        "reply": "_blank"
+      },
+      {
+        "questionTitle": "HTML ile ilgili bir web sayfasında bir resim eklemek için kullanılan etiket hangisidir?",
+        "choice1": "<img>",
+        "choice2": "<div>",
+        "choice3": "<a>",
+        "choice4": "<span>",
+        "reply": "<img>"
+      },
+      {
+        "questionTitle": "HTML'de bir liste oluşturmak için kullanılan etiket hangisidir?",
+        "choice1": "<ul>",
+        "choice2": "<li>",
+        "choice3": "<ol>",
+        "choice4": "<dl>",
+        "reply": "<ol>"
+      },
+      {
+        "questionTitle": "HTML'de bir tablo oluşturmak için kullanılan etiket hangisidir?",
+        "choice1": "<table>",
+        "choice2": "<div>",
+        "choice3": "<span>",
+        "choice4": "<form>",
+        "reply": "<table>"
+      },
+      {
+        "questionTitle": "HTML'de bir metni kalın yapmak için kullanılan etiket hangisidir?",
+        "choice1": "<strong>",
+        "choice2": "<em>",
+        "choice3": "<u>",
+        "choice4": "<i>",
+        "reply": "<strong>"
+      },
+      {
+        "questionTitle": "HTML'de bir metni altı çizgili yapmak için kullanılan etiket hangisidir?",
+        "choice1": "<strong>",
+        "choice2": "<em>",
+        "choice3": "<u>",
+        "choice4": "<i>",
+        "reply": "<u>"
+      },
+      {
+        "questionTitle": "HTML'de bir form oluşturmak için kullanılan etiket hangisidir?",
+        "choice1": "<form>",
+        "choice2": "<input>",
+        "choice3": "<button>",
+        "choice4": "<label>",
+        "reply": "<form>"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "img": "https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-css/sta-je-css.png",
+    "categories": "yazilim",
+    "name": "CSS soruları",
+    "difficulty": "Normal",
+    "question": [
+      {
+        "questionTitle": "CSS nedir?",
+        "choice1": "Hyper Text Markup Language",
+        "choice2": "Cascading Style Sheets",
+        "choice3": "JavaScript",
+        "choice4": "Python",
+        "reply": "Cascading Style Sheets"
+      },
+      {
+        "questionTitle": "CSS'in açılımı nedir?",
+        "choice1": "Hyper Text Markup Language",
+        "choice2": "Cascading Style Sheets",
+        "choice3": "JavaScript",
+        "choice4": "Python",
+        "reply": "Cascading Style Sheets"
+      },
+      {
+        "questionTitle": "CSS ile ilgili bir web sayfasındaki bir metin için renk belirlemek için kullanılan özellik hangisidir?",
+        "choice1": "color",
+        "choice2": "font-size",
+        "choice3": "background-color",
+        "choice4": "text-align",
+        "reply": "color"
+      },
+      {
+        "questionTitle": "CSS'de bir elemente sağdan 20 piksel iç içe boşluk vermek için hangi özelliği kullanırız?",
+        "choice1": "padding-right: 20px;",
+        "choice2": "margin-right: 20px;",
+        "choice3": "padding-left: 20px;",
+        "choice4": "margin-left: 20px;",
+        "reply": "padding-right: 20px;"
+      },
+      {
+        "questionTitle": "CSS ile bir metne yazı tipi kalınlığı eklemek için hangi özelliği kullanırız?",
+        "choice1": "font-weight",
+        "choice2": "font-size",
+        "choice3": "font-style",
+        "choice4": "line-height",
+        "reply": "font-weight"
+      },
+      {
+        "questionTitle": "CSS ile bir elementin yüksekliğini ayarlamak için hangi özelliği kullanırız?",
+        "choice1": "width",
+        "choice2": "height",
+        "choice3": "padding",
+        "choice4": "margin",
+        "reply": "height"
+      },
+      {
+        "questionTitle": "CSS ile bir elementin kenar yuvarlaklığını ayarlamak için hangi özelliği kullanırız?",
+        "choice1": "border-color",
+        "choice2": "border-width",
+        "choice3": "border-radius",
+        "choice4": "border-style",
+        "reply": "border-radius"
+      },
+      {
+        "questionTitle": "CSS ile bir elementin arka plan rengini ayarlamak için hangi özelliği kullanırız?",
+        "choice1": "color",
+        "choice2": "font-size",
+        "choice3": "background-color",
+        "choice4": "text-align",
+        "reply": "background-color"
+      },
+      {
+        "questionTitle": "CSS ile bir elementin yazı tipini ayarlamak için hangi özelliği kullanırız?",
+        "choice1": "font-family",
+        "choice2": "font-size",
+        "choice3": "font-weight",
+        "choice4": "line-height",
+        "reply": "font-family"
+      },
+      {
+        "questionTitle": "CSS ile bir elementin hizalamasını ayarlamak için hangi özelliği kullanırız?",
+        "choice1": "text-decoration",
+        "choice2": "text-align",
+        "choice3": "text-transform",
+        "choice4": "text-indent",
+        "reply": "text-align"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "img": "https://www.setxrm.com/wp-content/uploads/2019/11/Javascript-programming-language.jpg",
+    "categories": "yazilim",
+    "name": "JavaScript soruları",
+    "difficulty": "Hard",
+    "question": [
+      {
+        "questionTitle": "JavaScript nedir?",
+        "choice1": "Hyper Text Markup Language",
+        "choice2": "Cascading Style Sheets",
+        "choice3": "JavaScript",
+        "choice4": "Python",
+        "reply": "JavaScript"
+      },
+      {
+        "questionTitle": "JavaScript'in açılımı nedir?",
+        "choice1": "Hyper Text Markup Language",
+        "choice2": "Cascading Style Sheets",
+        "choice3": "JavaScript",
+        "choice4": "Python",
+        "reply": "JavaScript"
+      },
+      {
+        "questionTitle": "JavaScript ile ilgili bir web sayfasında kullanıcıdan veri almak için kullanılan nesne hangisidir?",
+        "choice1": "document",
+        "choice2": "window",
+        "choice3": "console",
+        "choice4": "alert",
+        "reply": "window"
+      },
+      {
+        "questionTitle": "JavaScript'te bir değişkenin veri tipini öğrenmek için hangi operatörü kullanırız?",
+        "choice1": "typeof",
+        "choice2": "instanceof",
+        "choice3": "new",
+        "choice4": "var",
+        "reply": "typeof"
+      },
+      {
+        "questionTitle": "JavaScript'te bir fonksiyonu belirli bir süre sonra çağırmak için hangi yöntemi kullanırız?",
+        "choice1": "setTimeout()",
+        "choice2": "setInterval()",
+        "choice3": "setDelay()",
+        "choice4": "setTime()",
+        "reply": "setTimeout()"
+      },
+      {
+        "questionTitle": "JavaScript'te bir dizi üzerinde döngü oluşturmak için hangi döngü yapısını kullanırız?",
+        "choice1": "for",
+        "choice2": "while",
+        "choice3": "do-while",
+        "choice4": "foreach",
+        "reply": "for"
+      },
+      {
+        "questionTitle": "JavaScript'te bir fonksiyonun kaç kez çağrıldığını saymak için hangi değişkeni kullanırız?",
+        "choice1": "this",
+        "choice2": "let",
+        "choice3": "const",
+        "choice4": "arguments",
+        "reply": "arguments"
+      },
+      {
+        "questionTitle": "JavaScript'te bir string'in uzunluğunu öğrenmek için hangi özelliği kullanırız?",
+        "choice1": "length",
+        "choice2": "size",
+        "choice3": "count",
+        "choice4": "index",
+        "reply": "length"
+      },
+      {
+        "questionTitle": "JavaScript'te bir sayıyı tam sayıya dönüştürmek için hangi yöntemi kullanırız?",
+        "choice1": "parseInt()",
+        "choice2": "parseFloat()",
+        "choice3": "toFixed()",
+        "choice4": "toString()",
+        "reply": "parseInt()"
+      },
+      {
+        "questionTitle": "JavaScript'te bir string'in içindeki belirli bir karakteri bulmak için hangi yöntemi kullanırız?",
+        "choice1": "charAt()",
+        "choice2": "toUpperCase()",
+        "choice3": "toLowerCase()",
+        "choice4": "indexOf()",
+        "reply": "indexOf()"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "img": "https://www.insertbilisim.com/wp-content/uploads/2021/09/Php-nedir.png",
+    "categories": "yazilim",
+    "name": "PHP Quiz",
+    "difficulty": "Kolay",
+    "question": [
+      {
+        "questionTitle": "PHP'nin açılımı nedir?",
+        "choice1": "Personal Hypertext Processor",
+        "choice2": "PHP: Hypertext Preprocessor",
+        "choice3": "PHP: Hypertext Processor",
+        "choice4": "Personal Home Page",
+        "reply": "PHP: Hypertext Preprocessor"
+      },
+      {
+        "questionTitle": "PHP'nin en son sürümü hangisidir?",
+        "choice1": "PHP 5",
+        "choice2": "PHP 7",
+        "choice3": "PHP 8",
+        "choice4": "PHP 9",
+        "reply": "PHP 8"
+      },
+      {
+        "questionTitle": "PHP'de 'echo' ve 'print' arasındaki fark nedir?",
+        "choice1": "'echo' herhangi bir değer döndürmez, 'print' ise 1 değer döndürür.",
+        "choice2": "'print' herhangi bir değer döndürmez, 'echo' ise 1 değer döndürür.",
+        "choice3": "'echo' hızlıdır, 'print' ise yavaştır.",
+        "choice4": "'print' hızlıdır, 'echo' ise yavaştır.",
+        "reply": "'echo' herhangi bir değer döndürmez, 'print' ise 1 değer döndürür."
+      },
+      {
+        "questionTitle": "PHP'de kullanılan 'strlen()' fonksiyonu ne işe yarar?",
+        "choice1": "Bir dizinin uzunluğunu döndürür.",
+        "choice2": "Bir metnin tüm karakterlerini küçük harfe çevirir.",
+        "choice3": "Bir metnin tüm karakterlerini büyük harfe çevirir.",
+        "choice4": "Bir metinden belirli bir bölümü keser.",
+        "reply": "Bir dizinin uzunluğunu döndürür."
+      },
+      {
+        "questionTitle": "PHP'de 'require' ve 'include' arasındaki fark nedir?",
+        "choice1": "'require' hata verirse işlem sonlandırılır, 'include' ise hata verirse devam eder.",
+        "choice2": "'include' hata verirse işlem sonlandırılır, 'require' ise hata verirse devam eder.",
+        "choice3": "'require' hızlıdır, 'include' ise yavaştır.",
+        "choice4": "'include' hızlıdır, 'require' ise yavaştır.",
+        "reply": "'require' hata verirse işlem sonlandırılır, 'include' ise hata verirse devam eder."
+      },
+      {
+        "questionTitle": "PHP'de '$_GET' ve '$_POST' arasındaki fark nedir?",
+        "choice1": "'$_GET' verileri URL üzerinden alır, '$_POST' ise form verilerini alır.",
+        "choice2": "'$_POST' verileri URL üzerinden alır, '$_GET' ise form verilerini alır.",
+        "choice3": "'$_GET' sadece metin verilerini alır, '$_POST' ise her tür veriyi alır.",
+        "choice4": "'$_POST' sadece metin verilerini alır, '$_GET' ise her tür veriyi alır.",
+        "reply": "'$_GET' verileri URL üzerinden alır, '$_POST' ise form verilerini alır."
+      },
+      {
+        "questionTitle": "PHP'de 'mysqli' ve 'PDO' arasındaki fark nedir?",
+        "choice1": "'mysqli' sadece MySQL veritabanıyla çalışır, 'PDO' ise birden fazla veritabanıyla çalışabilir.",
+        "choice2": "'PDO' sadece MySQL veritabanıyla çalışır, 'mysqli' ise birden fazla veritabanıyla çalışabilir.",
+        "choice3": "'mysqli' nesne tabanlı bir arayüze sahiptir, 'PDO' ise prosedürel bir arayüze sahiptir.",
+        "choice4": "'PDO' nesne tabanlı bir arayüze sahiptir, 'mysqli' ise prosedürel bir arayüze sahiptir.",
+        "reply": "'mysqli' sadece MySQL veritabanıyla çalışır, 'PDO' ise birden fazla veritabanıyla çalışabilir."
+      },
+      {
+        "questionTitle": "PHP'de 'array_push()' fonksiyonu ne işe yarar?",
+        "choice1": "Bir dizinin sonuna yeni bir eleman ekler.",
+        "choice2": "Bir dizinin başına yeni bir eleman ekler.",
+        "choice3": "Bir dizinin belirli bir indeksine yeni bir eleman ekler.",
+        "choice4": "Bir diziden belirli bir elemanı kaldırır.",
+        "reply": "Bir dizinin sonuna yeni bir eleman ekler."
+      },
+      {
+        "questionTitle": "PHP'de 'foreach' döngüsü hangi amaçla kullanılır?",
+        "choice1": "Bir dizinin tüm elemanlarına işlem uygulamak için kullanılır.",
+        "choice2": "Belirli bir koşulu sağlayan durumlar için kullanılır.",
+        "choice3": "Belirli bir kod parçasını tekrar etmek için kullanılır.",
+        "choice4": "Bir döngünün içindeki kodu atlamak için kullanılır.",
+        "reply": "Bir dizinin tüm elemanlarına işlem uygulamak için kullanılır."
+      },
+      {
+        "questionTitle": "PHP'de 'substr()' fonksiyonu ne işe yarar?",
+        "choice1": "Bir dizinin bir bölümünü döndürür.",
+        "choice2": "Bir metni başka bir metinle değiştirir.",
+        "choice3": "Bir dizinin sadece tek veya çift indeksli elemanlarını döndürür.",
+        "choice4": "Bir dizinin tüm elemanlarını ters çevirir.",
+        "reply": "Bir dizinin bir bölümünü döndürür."
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "img": "https://veriakademi.com/images/java-ne-ise-yarar.jpg",
+    "categories": "yazilim",
+    "name": "Java Quiz",
+    "difficulty": "Orta",
+    "question": [
+      {
+        "questionTitle": "Java platformu hangi şirket tarafından geliştirilmiştir?",
+        "choice1": "Microsoft",
+        "choice2": "Google",
+        "choice3": "Oracle",
+        "choice4": "IBM",
+        "reply": "Oracle"
+      },
+      {
+        "questionTitle": "Java'nın en son sürümü hangisidir?",
+        "choice1": "Java 7",
+        "choice2": "Java 8",
+        "choice3": "Java 11",
+        "choice4": "Java 15",
+        "reply": "Java 17"
+      },
+      {
+        "questionTitle": "Java'da 'public' ve 'private' erişim belirteçleri arasındaki fark nedir?",
+        "choice1": "'public' erişim belirteci herkese açıktır, 'private' ise sadece sınıf içinden erişilebilir.",
+        "choice2": "'private' erişim belirteci herkese açıktır, 'public' ise sadece sınıf içinden erişilebilir.",
+        "choice3": "'public' erişim belirteci yavaştır, 'private' ise hızlıdır.",
+        "choice4": "'private' erişim belirteci yavaştır, 'public' ise hızlıdır.",
+        "reply": "'public' erişim belirteci herkese açıktır, 'private' ise sadece sınıf içinden erişilebilir."
+      },
+      {
+        "questionTitle": "Java'da 'static' ve 'final' kavramları arasındaki fark nedir?",
+        "choice1": "'static' değişkenlerin değeri değiştirilebilir, 'final' değişkenlerin değeri değiştirilemez.",
+        "choice2": "'final' değişkenlerin değeri değiştirilebilir, 'static' değişkenlerin değeri değiştirilemez.",
+        "choice3": "'static' değişkenler her örnekte ayrı ayrı tutulur, 'final' değişkenler ise tüm örneklerde ortaktır.",
+        "choice4": "'final' değişkenler her örnekte ayrı ayrı tutulur, 'static' değişkenler ise tüm örneklerde ortaktır.",
+        "reply": "'static' değişkenler her örnekte ayrı ayrı tutulur, 'final' değişkenler ise tüm örneklerde ortaktır."
+      },
+      {
+        "questionTitle": "Java'da 'try-catch' blokları hangi amaçla kullanılır?",
+        "choice1": "Hesaplama işlemlerini yapmak için kullanılır.",
+        "choice2": "Belirli bir koşulu sağlayan durumlar için kullanılır.",
+        "choice3": "Hata yakalamak ve hata durumlarında özel işlemler yapmak için kullanılır.",
+        "choice4": "Döngülerde belirli bir kod bloğunu tekrar etmek için kullanılır.",
+        "reply": "Hata yakalamak ve hata durumlarında özel işlemler yapmak için kullanılır."
+      },
+      {
+        "questionTitle": "Java'da 'interface' ve 'abstract class' arasındaki fark nedir?",
+        "choice1": "'interface' sadece soyut metotlar içerir, 'abstract class' ise hem soyut hem de somut metotlar içerebilir.",
+        "choice2": "'abstract class' sadece soyut metotlar içerir, 'interface' ise hem soyut hem de somut metotlar içerebilir.",
+        "choice3": "'interface' multiple inheritance destekler, 'abstract class' ise desteklemez.",
+        "choice4": "'abstract class' multiple inheritance destekler, 'interface' ise desteklemez.",
+        "reply": "'interface' sadece soyut metotlar içerir, 'abstract class' ise hem soyut hem de somut metotlar içerebilir."
+      },
+      {
+        "questionTitle": "Java'da 'StringBuilder' ve 'StringBuffer' arasındaki fark nedir?",
+        "choice1": "'StringBuilder' thread-safe değildir, 'StringBuffer' ise thread-safe'dir.",
+        "choice2": "'StringBuffer' thread-safe değildir, 'StringBuilder' ise thread-safe'dir.",
+        "choice3": "'StringBuilder' hızlıdır, 'StringBuffer' ise yavaştır.",
+        "choice4": "'StringBuffer' hızlıdır, 'StringBuilder' ise yavaştır.",
+        "reply": "'StringBuilder' thread-safe değildir, 'StringBuffer' ise thread-safe'dir."
+      },
+      {
+        "questionTitle": "Java'da 'equals()' ve '==' arasındaki fark nedir?",
+        "choice1": "'equals()' referans karşılaştırması yapar, '==' ise değer karşılaştırması yapar.",
+        "choice2": "'==' referans karşılaştırması yapar, 'equals()' ise değer karşılaştırması yapar.",
+        "choice3": "'equals()' hızlıdır, '==' ise yavaştır.",
+        "choice4": "'==' hızlıdır, 'equals()' ise yavaştır.",
+        "reply": "'equals()' referans karşılaştırması yapar, '==' ise değer karşılaştırması yapar."
+      },
+      {
+        "questionTitle": "Java'da 'break' ve 'continue' ifadeleri arasındaki fark nedir?",
+        "choice1": "'break' döngüyü sonlandırır, 'continue' ise döngünün geri kalanını atlar.",
+        "choice2": "'continue' döngüyü sonlandırır, 'break' ise döngünün geri kalanını atlar.",
+        "choice3": "'break' sadece döngülerde kullanılır, 'continue' ise sadece koşullu ifadelerde kullanılır.",
+        "choice4": "'continue' sadece döngülerde kullanılır, 'break' ise sadece koşullu ifadelerde kullanılır.",
+        "reply": "'break' döngüyü sonlandırır, 'continue' ise döngünün geri kalanınıatlar."
+      },
+      {
+        "questionTitle": "Java'da 'ArrayList' ve 'LinkedList' arasındaki fark nedir?",
+        "choice1": "'ArrayList' verilere hızlı erişim sağlar, 'LinkedList' ise verilere yavaş erişim sağlar.",
+        "choice2": "'LinkedList' verilere hızlı erişim sağlar, 'ArrayList' ise verilere yavaş erişim sağlar.",
+        "choice3": "'ArrayList' eleman ekleme ve silme işlemlerinde hızlıdır, 'LinkedList' ise yavaştır.",
+        "choice4": "'LinkedList' eleman ekleme ve silme işlemlerinde hızlıdır, 'ArrayList' ise yavaştır.",
+        "reply": "'ArrayList' verilere hızlı erişim sağlar, 'LinkedList' ise verilere yavaş erişim sağlar."
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "img": "https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png",
+    "categories": "yazilim",
+    "name": "Python Quiz",
+    "difficulty": "Kolay",
+    "question": [
+      {
+        "questionTitle": "Python dilinde 'print()' fonksiyonu ne işe yarar?",
+        "choice1": "Kullanıcıdan veri alır",
+        "choice2": "Bir değeri ekrana yazdırır",
+        "choice3": "Bir dosyaya yazı yazar",
+        "choice4": "Veri tipini kontrol eder",
+        "reply": "Bir değeri ekrana yazdırır"
+      },
+      {
+        "questionTitle": "Python'da 'if' ve 'elif' arasındaki fark nedir?",
+        "choice1": "'elif' sadece bir kez kullanılabilir, 'if' ise birden çok kez kullanılabilir.",
+        "choice2": "'if' sadece bir kez kullanılabilir, 'elif' ise birden çok kez kullanılabilir.",
+        "choice3": "'if' her zaman çalışır, 'elif' ise belirli bir koşulu sağladığında çalışır.",
+        "choice4": "'elif' her zaman çalışır, 'if' ise belirli bir koşulu sağladığında çalışır.",
+        "reply": "'elif' her zaman çalışır, 'if' ise belirli bir koşulu sağladığında çalışır."
+      },
+      {
+        "questionTitle": "Python'da 'for' döngüsü hangi amaçla kullanılır?",
+        "choice1": "Belirli bir koşulu sağlayan durumlar için kullanılır.",
+        "choice2": "Belirli bir kod parçasını tekrar etmek için kullanılır.",
+        "choice3": "Bir dizinin tüm elemanlarına işlem uygulamak için kullanılır.",
+        "choice4": "Bir döngünün içindeki kodu atlamak için kullanılır.",
+        "reply": "Bir dizinin tüm elemanlarına işlem uygulamak için kullanılır."
+      },
+      {
+        "questionTitle": "Python'da 'dictionary' veri yapısı hangi sembolle tanımlanır?",
+        "choice1": "[]",
+        "choice2": "{}",
+        "choice3": "()",
+        "choice4": "<>",
+        "reply": "{}"
+      },
+      {
+        "questionTitle": "Python'da bir dosyayı okumak için hangi fonksiyon kullanılır?",
+        "choice1": "open()",
+        "choice2": "read()",
+        "choice3": "write()",
+        "choice4": "close()",
+        "reply": "open()"
+      },
+      {
+        "questionTitle": "Python'da bir fonksiyonu tanımlamak için hangi anahtar kelime kullanılır?",
+        "choice1": "function",
+        "choice2": "def",
+        "choice3": "define",
+        "choice4": "func",
+        "reply": "def"
+      },
+      {
+        "questionTitle": "Python'da bir listedeki en büyük değeri bulmak için hangi fonksiyon kullanılır?",
+        "choice1": "max()",
+        "choice2": "min()",
+        "choice3": "len()",
+        "choice4": "sum()",
+        "reply": "max()"
+      },
+      {
+        "questionTitle": "Python'da 'lambda' ifadesi hangi amaçla kullanılır?",
+        "choice1": "Koşullu durumları kontrol etmek için kullanılır.",
+        "choice2": "Döngülerde belirli bir kod parçasını tekrar etmek için kullanılır.",
+        "choice3": "Fonksiyonlar oluşturmak için kullanılır.",
+        "choice4": "Veri türlerini dönüştürmek için kullanılır.",
+        "reply": "Fonksiyonlar oluşturmak için kullanılır."
+      },
+      {
+        "questionTitle": "Python'da 'import' ifadesi hangi amaçla kullanılır?",
+        "choice1": "Dışarıdan modüller veya kütüphaneler eklemek için kullanılır.",
+        "choice2": "Değişkenleri tanımlamak için kullanılır.",
+        "choice3": "Veri türlerini dönüştürmek için kullanılır.",
+        "choice4": "Dosyaları okumak veya yazmak için kullanılır.",
+        "reply": "Dışarıdan modüller veya kütüphaneler eklemek için kullanılır."
+      },
+      {
+        "questionTitle": "Python'da 'random' modülü hangi amaçla kullanılır?",
+        "choice1": "Dizileri veya listeleri sıralamak için kullanılır.",
+        "choice2": "Rastgele sayılar veya değerler oluşturmak için kullanılır.",
+        "choice3": "Metinleri veya karakterleri dönüştürmek için kullanılır.",
+        "choice4": "Dosyaları okumak veya yazmak için kullanılır.",
+        "reply": "Rastgele sayılar veya değerler oluşturmak için kullanılır."
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "img": "https://static.ebayinc.com/static/assets/Uploads/Stories/Articles/node.js.jpg",
+    "categories": "yazilim",
+    "name": "Node.js Quiz",
+    "difficulty": "Orta",
+    "question": [
+      {
+        "questionTitle": "Node.js hangi programlama dilini kullanır?",
+        "choice1": "C++",
+        "choice2": "Java",
+        "choice3": "JavaScript",
+        "choice4": "Python",
+        "reply": "JavaScript"
+      },
+      {
+        "questionTitle": "Node.js'in en son sürümü hangisidir?",
+        "choice1": "Node.js 10",
+        "choice2": "Node.js 12",
+        "choice3": "Node.js 14",
+        "choice4": "Node.js 16",
+        "reply": "Node.js 16"
+      },
+      {
+        "questionTitle": "Node.js'de 'npm' hangi amaçla kullanılır?",
+        "choice1": "JavaScript paketlerini yönetmek için kullanılır.",
+        "choice2": "Veritabanı işlemleri yapmak için kullanılır.",
+        "choice3": "Web sunucusu oluşturmak için kullanılır.",
+        "choice4": "Kullanıcı girişlerini almak için kullanılır.",
+        "reply": "JavaScript paketlerini yönetmek için kullanılır."
+      },
+      {
+        "questionTitle": "Node.js'de 'require()' fonksiyonu ne işe yarar?",
+        "choice1": "Dışarıdan modüller veya kütüphaneler eklemek için kullanılır.",
+        "choice2": "Veritabanı bağlantısı oluşturmak için kullanılır.",
+        "choice3": "Dosya okuma veya yazma işlemleri yapmak için kullanılır.",
+        "choice4": "Web sunucusu oluşturmak için kullanılır.",
+        "reply": "Dışarıdan modüller veya kütüphaneler eklemek için kullanılır."
+      },
+      {
+        "questionTitle": "Node.js'de 'callback' fonksiyonları hangi amaçla kullanılır?",
+        "choice1": "Belirli bir koşulu sağlayan durumlar için kullanılır.",
+        "choice2": "Hata durumlarında özel işlemler yapmak için kullanılır.",
+        "choice3": "Asenkron işlemlerin sonucunu işlemek için kullanılır.",
+        "choice4": "Döngülerde belirli bir kod parçasını tekrar etmek için kullanılır.",
+        "reply": "Asenkron işlemlerin sonucunu işlemek için kullanılır."
+      },
+      {
+        "questionTitle": "Node.js'de 'EventEmitter' sınıfı hangi amaçla kullanılır?",
+        "choice1": "Veritabanı işlemleri yapmak için kullanılır.",
+        "choice2": "Web sunucusu oluşturmak için kullanılır.",
+        "choice3": "Asenkron işlemlerin sonucunu işlemek için kullanılır.",
+        "choice4": "Olay tabanlı programlamada olayları yönetmek için kullanılır.",
+        "reply": "Olay tabanlı programlamada olayları yönetmek için kullanılır."
+      },
+      {
+        "questionTitle": "Node.js'de 'fs' modülü hangi amaçla kullanılır?",
+        "choice1": "Web sunucusu oluşturmak için kullanılır.",
+        "choice2": "Dosya okuma veya yazma işlemleri yapmak için kullanılır.",
+        "choice3": "Veritabanı işlemleri yapmak için kullanılır.",
+        "choice4": "Kullanıcı girişlerini almak için kullanılır.",
+        "reply": "Dosya okuma veya yazma işlemleri yapmak için kullanılır."
+      },
+      {
+        "questionTitle": "Node.js'de 'async' ve 'await' anahtar kelimeleri hangi amaçla kullanılır?",
+        "choice1": "Hata durumlarında özel işlemler yapmak için kullanılır.",
+        "choice2": "Döngülerde belirli bir kod parçasını tekrar etmek için kullanılır.",
+        "choice3": "Asenkron işlemleri yönetmek için kullanılır.",
+        "choice4": "Veritabanı bağlantısı oluşturmak için kullanılır.",
+        "reply": "Asenkron işlemleri yönetmek için kullanılır."
+      },
+      {
+        "questionTitle": "Node.js'de 'Express' çerçevesi hangi amaçla kullanılır?",
+        "choice1": "Web sunucusu oluşturmak için kullanılır.",
+        "choice2": "Veritabanı işlemleri yapmak için kullanılır.",
+        "choice3": "Asenkron işlemleri yönetmek için kullanılır.",
+        "choice4": "Kullanıcı girişlerini almak için kullanılır.",
+        "reply": "Web sunucusu oluşturmak için kullanılır."
+      },
+      {
+        "questionTitle": "Node.js'de 'mongoose' kütüphanesi hangi amaçla kullanılır?",
+        "choice1": "Web sunucusu oluşturmak için kullanılır.",
+        "choice2": "Dosya okuma veya yazma işlemleri yapmak için kullanılır.",
+        "choice3": "Veritabanı işlemleri yapmak için kullanılır.",
+        "choice4": "Kullanıcı girişlerini almak için kullanılır.",
+        "reply": "Veritabanı işlemleri yapmak için kullanılır."
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "img": "https://repository-images.githubusercontent.com/37153337/9d0a6780-394a-11eb-9fd1-6296a684b124",
+    "categories": "yazilim",
+    "name": "React Quiz",
+    "difficulty": "Kolay",
+    "question": [
+      {
+        "questionTitle": "React hangi tür bir JavaScript kütüphanesidir?",
+        "choice1": "UI (Kullanıcı Arayüzü)",
+        "choice2": "Veri tabanı",
+        "choice3": "Ağ",
+        "choice4": "Güvenlik",
+        "reply": "UI (Kullanıcı Arayüzü)"
+      },
+      {
+        "questionTitle": "React'in en son sürümü hangisidir?",
+        "choice1": "React 15",
+        "choice2": "React 16",
+        "choice3": "React 17",
+        "choice4": "React 18",
+        "reply": "React 18"
+      },
+      {
+        "questionTitle": "React'ta bileşenler nasıl oluşturulur?",
+        "choice1": "class ifadesiyle",
+        "choice2": "function ifadesiyle",
+        "choice3": "component ifadesiyle",
+        "choice4": "element ifadesiyle",
+        "reply": "function ifadesiyle"
+      },
+      {
+        "questionTitle": "React'ta 'state' ve 'props'arasındaki fark nedir?",
+        "choice1": "'state', bileşenin kendi içinde değişebilen verilerini tutar, 'props' ise bileşene dışarıdan geçirilen verileri tutar.",
+        "choice2": "'props', bileşenin kendi içinde değişebilen verilerini tutar, 'state' ise bileşene dışarıdan geçirilen verileri tutar.",
+        "choice3": "'state' sadece fonksiyonel bileşenlerde kullanılır, 'props' ise sadece sınıf bileşenlerinde kullanılır.",
+        "choice4": "'props' sadece fonksiyonel bileşenlerde kullanılır, 'state' ise sadece sınıf bileşenlerinde kullanılır.",
+        "reply": "'state', bileşenin kendi içinde değişebilen verilerini tutar, 'props' ise bileşene dışarıdan geçirilen verileri tutar."
+      },
+      {
+        "questionTitle": "React'ta bileşenler arasında iletişim nasıl sağlanır?",
+        "choice1": "Props drilling",
+        "choice2": "State lifting",
+        "choice3": "Context API",
+        "choice4": "Redux",
+        "reply": "Props drilling"
+      },
+      {
+        "questionTitle": "React'ta yaşam döngüsü yöntemleri nelerdir?",
+        "choice1": "render(), componentDidMount(), componentDidUpdate(), componentWillUnmount()",
+        "choice2": "constructor(), setState(), componentDidUpdate(), componentWillUnmount()",
+        "choice3": "componentDidMount(), componentDidUpdate(), componentWillUnMount(), componentDidCatch()",
+        "choice4": "render(), componentWillUpdate(), componentWillUnmount(), componentDidCatch()",
+        "reply": "render(), componentDidMount(), componentDidUpdate(), componentWillUnmount()"
+      },
+      {
+        "questionTitle": "React'ta 'useState()' kancası hangi amaçla kullanılır?",
+        "choice1": "Bir bileşende state tutmak için kullanılır.",
+        "choice2": "HTTP istekleri yapmak için kullanılır.",
+        "choice3": "Bir bileşende effect oluşturmak için kullanılır.",
+        "choice4": "Bir bileşeni render etmek için kullanılır.",
+        "reply": "Bir bileşende state tutmak için kullanılır."
+      },
+      {
+        "questionTitle": "React'ta 'useEffect()' kancası hangi amaçla kullanılır?",
+        "choice1": "Bir bileşeni render etmek için kullanılır.",
+        "choice2": "HTTP istekleri yapmak için kullanılır.",
+        "choice3": "Bir bileşende effect oluşturmak için kullanılır.",
+        "choice4": "Bir bileşende state tutmak için kullanılır.",
+        "reply": "Bir bileşende effect oluşturmak için kullanılır."
+      },
+      {
+        "questionTitle": "React'ta 'React Router' hangi amaçla kullanılır?",
+        "choice1": "Form işlemleri yapmak için kullanılır.",
+        "choice2": "UI bileşenlerini oluşturmak için kullanılır.",
+        "choice3": "Bileşenler arasında gezinme işlemleri yapmak için kullanılır.",
+        "choice4": "State yönetimi yapmak için kullanılır.",
+        "reply": "Bileşenler arasında gezinme işlemleri yapmak için kullanılır."
+      },
+      {
+        "questionTitle": "React'ta 'Redux' hangi amaçla kullanılır?",
+        "choice1": "Form işlemleri yapmak için kullanılır.",
+        "choice2": "UI bileşenlerini oluşturmak için kullanılır.",
+        "choice3": "Bileşenler arasında gezinme işlemleri yapmak için kullanılır.",
+        "choice4": "State yönetimi yapmak için kullanılır.",
+        "reply": "State yönetimi yapmak için kullanılır."
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "img": "https://miro.medium.com/v2/resize:fit:900/1*OrjCKmou1jT4It5so5gvOA.jpeg",
+    "categories": "yazilim",
+    "name": "Vue Quiz",
+    "difficulty": "Orta",
+    "question": [
+      {
+        "questionTitle": "Vue.js hangi tür bir JavaScript kütüphanesidir?",
+        "choice1": "UI (Kullanıcı Arayüzü)",
+        "choice2": "Veri tabanı",
+        "choice3": "Ağ",
+        "choice4": "Güvenlik",
+        "reply": "UI (Kullanıcı Arayüzü)"
+      },
+      {
+        "questionTitle": "Vue.js'in en son sürümü hangisidir?",
+        "choice1": "Vue.js 1",
+        "choice2": "Vue.js 2",
+        "choice3": "Vue.js 3",
+        "choice4": "Vue.js 3",
+        "reply": "Vue.js 3"
+      },
+      {
+        "questionTitle": "Vue.js'te bileşenler nasıl oluşturulur?",
+        "choice1": "class ifadesiyle",
+        "choice2": "function ifadesiyle",
+        "choice3": "component ifadesiyle",
+        "choice4": "element ifadesiyle",
+        "reply": "component ifadesiyle"
+      },
+      {
+        "questionTitle": "Vue.js'te 'v-bind' direktifi hangi amaçla kullanılır?",
+        "choice1": "Bir bileşene veri bağlamak için kullanılır.",
+        "choice2": "Bir bileşenden veri almak için kullanılır.",
+        "choice3": "Bir bileşeni göstermek veya gizlemek için kullanılır.",
+        "choice4": "Bir bileşene stil uygulamak için kullanılır.",
+        "reply": "Bir bileşene veri bağlamak için kullanılır."
+      },
+      {
+        "questionTitle": "Vue.js'te 'v-for' direktifi hangi amaçla kullanılır?",
+        "choice1": "Bir dizi veya liste üzerinde döngü oluşturmak için kullanılır.",
+        "choice2": "Bir bileşeni göstermek veya gizlemek için kullanılır.",
+        "choice3": "Bir bileşene veri bağlamak için kullanılır.",
+        "choice4": "Bir bileşene stil uygulamak için kullanılır.",
+        "reply": "Bir dizi veya liste üzerinde döngü oluşturmak için kullanılır."
+      },
+      {
+        "questionTitle": "Vue.js'te 'v-if' ve 'v-show' direktifleri arasındaki fark nedir?",
+        "choice1": "'v-if' ile gösterilen bir bileşen tamamen kaldırılır, 'v-show' ile gösterilen bir bileşen gizlenir.",
+        "choice2": "'v-show' ile gösterilen bir bileşen tamamen kaldırılır, 'v-if' ile gösterilen bir bileşen gizlenir.",
+        "choice3": "'v-if' ile gösterilen bir bileşen hızlıdır, 'v-show' ile gösterilen bir bileşen yavaştır.",
+        "choice4": "'v-show' ile gösterilen bir bileşen hızlıdır, 'v-if' ile gösterilen bir bileşen yavaştır.",
+        "reply": "'v-if' ile gösterilen bir bileşen tamamen kaldırılır, 'v-show' ile gösterilen bir bileşen gizlenir."
+      },
+      {
+        "questionTitle": "Vue.js'te 'computed' özelliği hangi amaçla kullanılır?",
+        "choice1": "Dinamik olarak veri bağlamak için kullanılır.",
+        "choice2": "Veri değişikliklerini izlemek için kullanılır.",
+        "choice3": "Metodları veya hesaplamaları saklamak için kullanılır.",
+        "choice4": "Event'leri yönetmek için kullanılır.",
+        "reply": "Metodları veya hesaplamaları saklamak için kullanılır."
+      },
+      {
+        "questionTitle": "Vue.js'te 'watch' özelliği hangi amaçla kullanılır?",
+        "choice1": "Dinamik olarak veri bağlamak için kullanılır.",
+        "choice2": "Veri değişikliklerini izlemek için kullanılır.",
+        "choice3": "Metodları veya hesaplamaları saklamak için kullanılır.",
+        "choice4": "Event'leri yönetmek için kullanılır.",
+        "reply": "Veri değişikliklerini izlemek için kullanılır."
+      },
+      {
+        "questionTitle": "Vue.js'te 'v-model' direktifi hangi amaçla kullanılır?",
+        "choice1": "Bir bileşene veri bağlamak için kullanılır.",
+        "choice2": "Bir bileşenden veri almak için kullanılır.",
+        "choice3": "Bir bileşeni göstermek veya gizlemek için kullanılır.",
+        "choice4": "Bir bileşene stil uygulamak için kullanılır.",
+        "reply": "Bir bileşene veri bağlamak için kullanılır."
+      },
+      {
+        "questionTitle": "Vue.js'te 'Vue Router' hangi amaçla kullanılır?",
+        "choice1": "Form işlemleri yapmak için kullanılır.",
+        "choice2": "UI bileşenlerini oluşturmak için kullanılır.",
+        "choice3": "Bileşenler arasında gezinme işlemleri yapmak için kullanılır.",
+        "choice4": "State yönetimi yapmak için kullanılır.",
+        "reply": "Bileşenler arasında gezinme işlemleri yapmak için kullanılır."
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "img": "https://www.meritstore.in/wp-content/uploads/2016/12/10-reasons-to-love-Physics.png?x79684",
+    "categories": "bilim",
+    "name": "Fizik kanunları sorular",
+    "difficulty": "Easy",
+    "question": [
+      {
+        "questionTitle": "Yerçekimi kuvveti hangi formülle ifade edilir?",
+        "choice1": "F = m * a",
+        "choice2": "F = m * g",
+        "choice3": "F = m * v",
+        "choice4": "F = m * c",
+        "reply": "F = m * g"
+      },
+      {
+        "questionTitle": "Newton'un ilk hareket yasası olarak da bilinen yasa hangisidir?",
+        "choice1": "İnertsi yasası",
+        "choice2": "Eylemsizlik yasası",
+        "choice3": "Aksiyon-reaksiyon yasası",
+        "choice4": "Çekim yasası",
+        "reply": "Eylemsizlik yasası"
+      },
+      {
+        "questionTitle": "Bir cismin ivmesi nasıl hesaplanır?",
+        "choice1": "a = v / t",
+        "choice2": "a = F * m",
+        "choice3": "a = m * g",
+        "choice4": "a = F / m",
+        "reply": "a = v / t"
+      },
+      {
+        "questionTitle": "Bir cismin momentumu nasıl hesaplanır?",
+        "choice1": "p = m * g",
+        "choice2": "p = m * v",
+        "choice3": "p = F * a",
+        "choice4": "p = F / m",
+        "reply": "p = m * v"
+      },
+      {
+        "questionTitle": "Elektrik akımı hangi birimle ölçülür?",
+        "choice1": "Amper",
+        "choice2": "Volt",
+        "choice3": "Ohm",
+        "choice4": "Watt",
+        "reply": "Amper"
+      },
+      {
+        "questionTitle": "Bir devrenin direnci nasıl hesaplanır?",
+        "choice1": "R = V * I",
+        "choice2": "R = V / I",
+        "choice3": "R = P / I",
+        "choice4": "R = P * I",
+        "reply": "R = V / I"
+      },
+      {
+        "questionTitle": "Bir cismin potansiyel enerjisi hangi formülle hesaplanır?",
+        "choice1": "E = m * g * h",
+        "choice2": "E = m * v^2",
+        "choice3": "E = m * c^2",
+        "choice4": "E = m * a",
+        "reply": "E = m * g * h"
+      },
+      {
+        "questionTitle": "Bir ses dalgasının frekansı hangi birimle ölçülür?",
+        "choice1": "Hertz",
+        "choice2": "Watt",
+        "choice3": "Volt",
+        "choice4": "Ohm",
+        "reply": "Hertz"
+      },
+      {
+        "questionTitle": "Bir nesnenin sahip olduğu ısı enerjisi hangi birimle ölçülür?",
+        "choice1": "Celsius",
+        "choice2": "Kelvin",
+        "choice3": "Fahrenheit",
+        "choice4": "Joule",
+        "reply": "Joule"
+      },
+      {
+        "questionTitle": "Bir nesnenin sahip olduğu kinetik enerji nasıl hesaplanır?",
+        "choice1": "E = m * g * h",
+        "choice2": "E = m * v^2",
+        "choice3": "E = m * c^2",
+        "choice4": "E = m * a",
+        "reply": "E = m * v^2"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "img": "https://kunduz.com/wp-content/uploads/2020/11/kimya-11.-sinif-e1605532970287.jpg",
+    "categories": "bilim",
+    "name": "kimya kanunları sorular",
+    "difficulty": "Normal",
+    "question": [
+      {
+        "questionTitle": "Kimya biliminin kurucusu olarak kabul edilen kişi kimdir?",
+        "choice1": "Albert Einstein",
+        "choice2": "Isaac Newton",
+        "choice3": "Marie Curie",
+        "choice4": "Antoine Lavoisier",
+        "reply": "Antoine Lavoisier"
+      },
+      {
+        "questionTitle": "Atomun temel parçacıkları nelerdir?",
+        "choice1": "Proton, elektron, nötron",
+        "choice2": "Proton, foton, nötron",
+        "choice3": "Elektron, nötron, molekül",
+        "choice4": "Molekül, foton, elektron",
+        "reply": "Proton, elektron, nötron"
+      },
+      {
+        "questionTitle": "Periyodik tabloda en üstte yer alan element hangisidir?",
+        "choice1": "Hidrojen",
+        "choice2": "Helyum",
+        "choice3": "Lityum",
+        "choice4": "Berilyum",
+        "reply": "Hidrojen"
+      },
+      {
+        "questionTitle": "Kimyasal bir reaksiyonda elektron alışverişi olmazsa hangi tür bir reaksiyon söz konusudur?",
+        "choice1": "Oksidasyon",
+        "choice2": "Redüksiyon",
+        "choice3": "Asidik",
+        "choice4": "Nötr",
+        "reply": "Nötr"
+      },
+      {
+        "questionTitle": "Bir maddenin asidik olduğunu belirlemek için hangi özellik incelenir?",
+        "choice1": "pH",
+        "choice2": "Yoğunluk",
+        "choice3": "Viskozite",
+        "choice4": "Elastisite",
+        "reply": "pH"
+      },
+      {
+        "questionTitle": "Bir maddenin sıcaklık değişimi olmadan gaz halinden sıvı haline geçmesine ne denir?",
+        "choice1": "Eritme",
+        "choice2": "Donma",
+        "choice3": "Eşanj",
+        "choice4": "Yoğuşma",
+        "reply": "Yoğuşma"
+      },
+      {
+        "questionTitle": "Kimya biliminde moleküler formülle ifade edilen elementin atom sayısı hangi bilgiyi verir?",
+        "choice1": "Proton sayısı",
+        "choice2": "Nötron sayısı",
+        "choice3": "Elektron sayısı",
+        "choice4": "Molekül ağırlığı",
+        "reply": "Proton sayısı"
+      },
+      {
+        "questionTitle": "Kimyasal bir bileşiğin içerdiği elementlerin oranını gösteren ifadeye ne denir?",
+        "choice1": "Kimyasal formül",
+        "choice2": "Moleküler formül",
+        "choice3": "Empirik formül",
+        "choice4": "Yapı formülü",
+        "reply": "Empirik formül"
+      },
+      {
+        "questionTitle": "Bir kimyasal reaksiyonda denge sağlandığında hangi durum söz konusudur?",
+        "choice1": "Kimyasal denge",
+        "choice2": "Termal denge",
+        "choice3": "Fiziksel denge",
+        "choice4": "Kimyasal reaksiyon",
+        "reply": "Kimyasal denge"
+      },
+      {
+        "questionTitle": "Kimyasal bir reaksiyonda etkileşen maddelerin sayısını gösteren ifadeye ne denir?",
+        "choice1": "Katsayı",
+        "choice2": "Katsayısal denklem",
+        "choice3": "Reaksiyon hızı",
+        "choice4": "Denklem dengesi",
+        "reply": "Katsayı"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "img": "https://bilimgenc.tubitak.gov.tr/sites/default/files/styles/bp-770px-custom_user_desktop_1x/public/molekuler_makale_gorseli.jpg?itok=HCAhKY7U",
+    "categories": "bilim",
+    "name": "Biyoloji kanunları sorular",
+    "difficulty": "Hard",
+    "question": [
+      {
+        "questionTitle": "DNA'nın açılımı nedir?",
+        "choice1": "Deoksiribonükleik asit",
+        "choice2": "Riboza",
+        "choice3": "Adenin",
+        "choice4": "Guanin",
+        "reply": "Deoksiribonükleik asit"
+      },
+      {
+        "questionTitle": "Fotosentez olayında bitkiler hangi enerji kaynağını kullanır?",
+        "choice1": "Güneş enerjisi",
+        "choice2": "Kimyasal enerji",
+        "choice3": "Elektrik enerjisi",
+        "choice4": "Nükleer enerji",
+        "reply": "Güneş enerjisi"
+      },
+      {
+        "questionTitle": "Solunum olayında hücreler hangi molekülden enerji elde eder?",
+        "choice1": "Glukoz",
+        "choice2": "Amino asit",
+        "choice3": "Yağ",
+        "choice4": "Protein",
+        "reply": "Glukoz"
+      },
+      {
+        "questionTitle": "Bitkilerde beslenme işlemi nasıl gerçekleşir?",
+        "choice1": "Fotosentez",
+        "choice2": "Solunum",
+        "choice3": "Sindirim",
+        "choice4": "Atmosfer alışverişi",
+        "reply": "Fotosentez"
+      },
+      {
+        "questionTitle": "Kanın pıhtılaşma işlemini sağlayan hücreler hangileridir?",
+        "choice1": "Eritrositler",
+        "choice2": "Lökositler",
+        "choice3": "Trombositler",
+        "choice4": "Plazma hücreleri",
+        "reply": "Eritrositler"
+      },
+      {
+        "questionTitle": "Bir organizmanın kendisini benzer şekilde üretmesine ne denir?",
+        "choice1": "Bölünme",
+        "choice2": "Mayoz",
+        "choice3": "Mitoz",
+        "choice4": "Fertilizasyon",
+        "reply": "Mitoz"
+      },
+      {
+        "questionTitle": "Hücre çekirdeğinde bulunan DNA'nın çift sarmal yapısını keşfeden bilim insanları kimlerdir?",
+        "choice1": "James Watson ve Francis Crick",
+        "choice2": "Gregor Mendel",
+        "choice3": "Charles Darwin",
+        "choice4": "Louis Pasteur",
+        "reply": "James Watson ve Francis Crick"
+      },
+      {
+        "questionTitle": "Bir organizmanın genetik yapısının tümünü ifade eden kavram hangisidir?",
+        "choice1": "Genom",
+        "choice2": "Kromozom",
+        "choice3": "DNA",
+        "choice4": "Gen",
+        "reply": "Genom"
+      },
+      {
+        "questionTitle": "Hücre bölünmesi sırasında kromozomlar hangi aşamada hücrenin merkezine hizalanır?",
+        "choice1": "Metafaz",
+        "choice2": "Anafaz",
+        "choice3": "Profaz",
+        "choice4": "Telofaz",
+        "reply": "Metafaz"
+      },
+      {
+        "questionTitle": "Bir organizmanın belli bir özelliğini geçirebilme yeteneğine ne denir?",
+        "choice1": "Kalıtsal geçiş",
+        "choice2": "Mutasyon",
+        "choice3": "Fertilizasyon",
+        "choice4": "Çaprazlama",
+        "reply": "Kalıtsal geçiş"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "img": "https://simgevip.com/upload/makale/matematik-dersine-nasil-calisilir86018270.jpg",
+    "categories": "bilim",
+    "name": "Matematik soruları",
+    "difficulty": "Easy",
+    "question": [
+      {
+        "questionTitle": "Pi sayısı hangi sayı ile temsil edilir?",
+        "choice1": "3,14",
+        "choice2": "2,71",
+        "choice3": "1,61",
+        "choice4": "1,41",
+        "reply": "3,14"
+      },
+      {
+        "questionTitle": "Bir doğrunun eğimi nasıl hesaplanır?",
+        "choice1": "m = (y2 - y1) / (x2 - x1)",
+        "choice2": "m = (x2 - x1) / (y2 - y1)",
+        "choice3": "m = (y1 - y2) / (x1 - x2)",
+        "choice4": "m = (x1 - x2) / (y1 - y2)",
+        "reply": "m = (y2 - y1) / (x2 - x1)"
+      },
+      {
+        "questionTitle": "Bir üçgenin alanı nasıl hesaplanır?",
+        "choice1": "A = (1/2) * b * h",
+        "choice2": "A = s^2",
+        "choice3": "A = π * r^2",
+        "choice4": "A = l * w",
+        "reply": "A = (1/2) * b * h"
+      },
+      {
+        "questionTitle": "Bir doğrunun eşit iki parçasına ne denir?",
+        "choice1": "Ortanca",
+        "choice2": "Bisectrix",
+        "choice3": "Asal",
+        "choice4": "Orta doğru",
+        "reply": "Orta doğru"
+      },
+      {
+        "questionTitle": "Bir dairenin çevresi nasıl hesaplanır?",
+        "choice1": "C = π * d",
+        "choice2": "C = 2 * π * r",
+        "choice3": "C = 4 * π * r",
+        "choice4": "C = π * r^2",
+        "reply": "C = 2 * π * r"
+      },
+      {
+        "questionTitle": "Bir doğrunun dik açıyla kesiştiği başka bir doğrunun açısı ne kadardır?",
+        "choice1": "90 derece",
+        "choice2": "45 derece",
+        "choice3": "180 derece",
+        "choice4": "360 derece",
+        "reply": "90 derece"
+      },
+      {
+        "questionTitle": "Bir dik üçgenin hipotenüs uzunluğunu hesaplamak için hangi formül kullanılır?",
+        "choice1": "c^2 = a^2 + b^2",
+        "choice2": "c = a + b",
+        "choice3": "c = a - b",
+        "choice4": "c = a * b",
+        "reply": "c^2 = a^2 + b^2"
+      },
+      {
+        "questionTitle": "Bir polinomun en yüksek dereceli terimi ne ifade eder?",
+        "choice1": "Sabit terim",
+        "choice2": "Lineer terim",
+        "choice3": "Derece terimi",
+        "choice4": "Katsayı terimi",
+        "reply": "Derece terimi"
+      },
+      {
+        "questionTitle": "Bir matematiksel ifadede parantez içindeki işlemler hangi sırayla yapılır?",
+        "choice1": "Parantez içi önce yapılır",
+        "choice2": "Üs alma önce yapılır",
+        "choice3": "Çarpma ve bölme önce yapılır",
+        "choice4": "Toplama ve çıkarma önce yapılır",
+        "reply": "Parantez içi önce yapılır"
+      },
+      {
+        "questionTitle": "Bir çemberin alanı nasıl hesaplanır?",
+        "choice1": "A = π * r^2",
+        "choice2": "A = π * d",
+        "choice3": "A = 2 * π * r",
+        "choice4": "A = 4 * π * r",
+        "reply": "A = π * r^2"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "img": "https://www.datocms-assets.com/64859/1653127725-astronomi-ve-uzay-bilimleri-2.jpg",
+    "categories": "bilim",
+    "name": "Astronomi sorular",
+    "difficulty": "Normal",
+    "question": [
+      {
+        "questionTitle": "Dünya'nın en yakın komşusu hangi gezegendir?",
+        "choice1": "Venüs",
+        "choice2": "Mars",
+        "choice3": "Jüpiter",
+        "choice4": "Ay",
+        "reply": "Ay"
+      },
+      {
+        "questionTitle": "Güneş sistemindeki en büyük gezegen hangisidir?",
+        "choice1": "Merkür",
+        "choice2": "Jüpiter",
+        "choice3": "Satürn",
+        "choice4": "Dünya",
+        "reply": "Jüpiter"
+      },
+      {
+        "questionTitle": "Bir yıldızın parlaklığına ne denir?",
+        "choice1": "Uzaklık",
+        "choice2": "Hız",
+        "choice3": "Renk",
+        "choice4": "Magnitüd",
+        "reply": "Magnitüd"
+      },
+      {
+        "questionTitle": "Yıldızların doğuşu ve ölümü sırasında ortaya çıkan patlamalara ne denir?",
+        "choice1": "Kara delik",
+        "choice2": "Galaksi",
+        "choice3": "Supernova",
+        "choice4": "Asteroit",
+        "reply": "Supernova"
+      },
+      {
+        "questionTitle": "Dünya'nın çevresi yaklaşık olarak kaç kilometredir?",
+        "choice1": "10,000 km",
+        "choice2": "40,000 km",
+        "choice3": "100,000 km",
+        "choice4": "400,000 km",
+        "reply": "40,000 km"
+      },
+      {
+        "questionTitle": "Güneş'in ışığı dünyaya kaç dakikada ulaşır?",
+        "choice1": "8 dakika",
+        "choice2": "16 dakika",
+        "choice3": "24 dakika",
+        "choice4": "32 dakika",
+        "reply": "8 dakika"
+      },
+      {
+        "questionTitle": "Güneş sistemindeki en büyük uydu hangisidir?",
+        "choice1": "Ay",
+        "choice2": "Europa",
+        "choice3": "Titan",
+        "choice4": "Phobos",
+        "reply": "Ay"
+      },
+      {
+        "questionTitle": "Güneş'in enerjisi hangi süreçte üretilir?",
+        "choice1": "Nükleer füzyon",
+        "choice2": "Nükleer fisyon",
+        "choice3": "Radyoaktivite",
+        "choice4": "Radyasyon",
+        "reply": "Nükleer füzyon"
+      },
+      {
+        "questionTitle": "Bir yıldızın ışığına ne ad verilir?",
+        "choice1": "Parlaklık",
+        "choice2": "Sıcaklık",
+        "choice3": "Işınım",
+        "choice4": "Yakınlık",
+        "reply": "Işınım"
+      },
+      {
+        "questionTitle": "Bir yıldızın sıcaklığını belirleyen özelliği ne ifade eder?",
+        "choice1": "Renk",
+        "choice2": "Hız",
+        "choice3": "Yakınlık",
+        "choice4": "Parlaklık",
+        "reply": "Renk"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "img": "https://www.muhendisbeyinler.net/wp-content/uploads/2014/10/fizik-dersi-nasil-calisilir.jpg",
+    "categories": "bilim",
+    "name": "Zor Fizik kanunları sorular",
+    "difficulty": "Hard",
+    "question": [
+      {
+        "questionTitle": "Bir cismin durgunluk durumunu değiştirmek için uygulanan kuvvetin etkisiyle cismin kazandığı hızlı hareket şekline ne denir?",
+        "choice1": "İvme",
+        "choice2": "Hız",
+        "choice3": "Moment",
+        "choice4": "Kinetik enerji",
+        "reply": "İvme"
+      },
+      {
+        "questionTitle": "Bir cismin bir noktada durabilmesi için etkisiz kuvvetlerin toplamının neye eşit olması gerekir?",
+        "choice1": "Sıfıra",
+        "choice2": "Kütle çekim kuvvetine",
+        "choice3": "Ağırlığa",
+        "choice4": "Normal kuvvetine",
+        "reply": "Sıfıra"
+      },
+      {
+        "questionTitle": "Bir cismin eğimli bir yüzeyde aşağıya doğru hareket etmesi için etkili olan kuvvete ne denir?",
+        "choice1": "Kinetik sürtünme kuvveti",
+        "choice2": "Statik sürtünme kuvveti",
+        "choice3": "Gravitasyonel kuvvet",
+        "choice4": "Elastik kuvvet",
+        "reply": "Statik sürtünme kuvveti"
+      },
+      {
+        "questionTitle": "Bir cismin hareketine engel olan kuvvete ne denir?",
+        "choice1": "Tensör",
+        "choice2": "Ağırlık",
+        "choice3": "Moment",
+        "choice4": "Sürtünme",
+        "reply": "Sürtünme"
+      },
+      {
+        "questionTitle": "Bir cismin hareketi sırasında yön değiştirmesine ne denir?",
+        "choice1": "Hız",
+        "choice2": "Moment",
+        "choice3": "Kinetik enerji",
+        "choice4": "İvme",
+        "reply": "İvme"
+      },
+      {
+        "questionTitle": "Bir cismi belirli bir noktadan başka bir noktaya taşımak için harcanan enerjiye ne denir?",
+        "choice1": "Kinetik enerji",
+        "choice2": "Potansiyel enerji",
+        "choice3": "İş",
+        "choice4": "Moment",
+        "reply": "İş"
+      },
+      {
+        "questionTitle": "Bir cismi bir noktadan başka bir noktaya taşımak için harcanan enerjinin birimi nedir?",
+        "choice1": "Joule",
+        "choice2": "Watt",
+        "choice3": "Newton",
+        "choice4": "Volt",
+        "reply": "Joule"
+      },
+      {
+        "questionTitle": "Bir cismin yer değiştirdiği toplam mesafeye ne denir?",
+        "choice1": "Hız",
+        "choice2": "İvme",
+        "choice3": "Moment",
+        "choice4": "Yol",
+        "reply": "Yol"
+      },
+      {
+        "questionTitle": "Bir cismin hareketi sırasında ivme değişikliğine ne denir?",
+        "choice1": "Kinetik enerji",
+        "choice2": "Yol",
+        "choice3": "Moment",
+        "choice4": "Jerk",
+        "reply": "Jerk"
+      },
+      {
+        "questionTitle": "Bir cismin üzerine etki eden toplam kuvvetin nesnenin kütlesine oranına ne denir?",
+        "choice1": "İvme",
+        "choice2": "Hız",
+        "choice3": "Moment",
+        "choice4": "Kuvvet",
+        "reply": "İvme"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "img": "https://www.nutuk.com.tr/d/news/36354.jpg",
+    "categories": "oyun",
+    "name": "Oyun Türleri",
+    "difficulty": "Orta",
+    "question": [
+      {
+        "questionTitle": "Hangisi bir RPG türü değildir?",
+        "choice1": "The Witcher",
+        "choice2": "Call of Duty",
+        "choice3": "Final Fantasy",
+        "choice4": "World of Warcraft",
+        "reply": "Call of Duty"
+      },
+      {
+        "questionTitle": "Hangisi bir FPS türüdür?",
+        "choice1": "FIFA",
+        "choice2": "Minecraft",
+        "choice3": "Counter-Strike",
+        "choice4": "The Sims",
+        "reply": "Counter-Strike"
+      },
+      {
+        "questionTitle": "Hangisi bir platform oyunudur?",
+        "choice1": "Grand Theft Auto",
+        "choice2": "Super Mario Bros",
+        "choice3": "Assassin's Creed",
+        "choice4": "Battlefield",
+        "reply": "Super Mario Bros"
+      },
+      {
+        "questionTitle": "Hangisi bir strateji oyunudur?",
+        "choice1": "Need for Speed",
+        "choice2": "Age of Empires",
+        "choice3": "Street Fighter",
+        "choice4": "Uncharted",
+        "reply": "Age of Empires"
+      },
+      {
+        "questionTitle": "Hangisi bir macera oyunudur?",
+        "choice1": "Madden NFL",
+        "choice2": "The Legend of Zelda",
+        "choice3": "Destiny",
+        "choice4": "Overwatch",
+        "reply": "The Legend of Zelda"
+      },
+      {
+        "questionTitle": "Hangisi bir yarış oyunudur?",
+        "choice1": "Battlefield",
+        "choice2": "NBA 2K",
+        "choice3": "Gran Turismo",
+        "choice4": "Minecraft",
+        "reply": "Gran Turismo"
+      },
+      {
+        "questionTitle": "Hangisi bir spor oyunudur?",
+        "choice1": "Call of Duty",
+        "choice2": "FIFA",
+        "choice3": "Assassin's Creed",
+        "choice4": "World of Warcraft",
+        "reply": "FIFA"
+      },
+      {
+        "questionTitle": "Hangisi bir bulmaca oyunudur?",
+        "choice1": "World of Warcraft",
+        "choice2": "Tetris",
+        "choice3": "Grand Theft Auto",
+        "choice4": "Fortnite",
+        "reply": "Tetris"
+      },
+      {
+        "questionTitle": "Hangisi bir hayatta kalma oyunudur?",
+        "choice1": "Minecraft",
+        "choice2": "Super Mario Bros",
+        "choice3": "League of Legends",
+        "choice4": "The Witcher",
+        "reply": "Minecraft"
+      },
+      {
+        "questionTitle": "Hangisi bir aksiyon oyunudur?",
+        "choice1": "Final Fantasy",
+        "choice2": "FIFA",
+        "choice3": "Grand Theft Auto",
+        "choice4": "Call of Duty",
+        "reply": "Grand Theft Auto"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "img": "https://ares.shiftdelete.net/2021/03/iste-2021-yilinin-en-cok-satan-10-oyunu-10.jpg",
+    "categories": "oyun",
+    "name": "Oyun Yapımı",
+    "difficulty": "Zor",
+    "question": [
+      {
+        "questionTitle": "Unity ile oyun yapmak için hangi dil kullanılır?",
+        "choice1": "C#",
+        "choice2": "Java",
+        "choice3": "Python",
+        "choice4": "JavaScript",
+        "reply": "C#"
+      },
+      {
+        "questionTitle": "Hangisi bir oyun motoru değildir?",
+        "choice1": "Unreal Engine",
+        "choice2": "CryEngine",
+        "choice3": "Blender",
+        "choice4": "Godot Engine",
+        "reply": "Blender"
+      },
+      {
+        "questionTitle": "Oyunlarda kullanılan 3D modelleme programı hangisidir?",
+        "choice1": "Photoshop",
+        "choice2": "Maya",
+        "choice3": "Illustrator",
+        "choice4": "After Effects",
+        "reply": "Maya"
+      },
+      {
+        "questionTitle": "Oyunlarda kullanılan fizik motoru hangisidir?",
+        "choice1": "Box2D",
+        "choice2": "OpenCV",
+        "choice3": "OpenGL",
+        "choice4": "DirectX",
+        "reply": "Box2D"
+      },
+      {
+        "questionTitle": "Hangisi bir oyun geliştirme dili değildir?",
+        "choice1": "Lua",
+        "choice2": "Ruby",
+        "choice3": "HTML",
+        "choice4": "C++",
+        "reply": "HTML"
+      },
+      {
+        "questionTitle": "Oyunlarda kullanılan ses efektlerini düzenlemek için hangi program kullanılır?",
+        "choice1": "Premiere Pro",
+        "choice2": "Audacity",
+        "choice3": "Final Cut Pro",
+        "choice4": "Avid Pro Tools",
+        "reply": "Audacity"
+      },
+      {
+        "questionTitle": "Hangisi bir oyun tasarımı terimi değildir?",
+        "choice1": "Level Design",
+        "choice2": "Gameplay",
+        "choice3": "Syntax",
+        "choice4": "UI/UX",
+        "reply": "Syntax"
+      },
+      {
+        "questionTitle": "Oyunlarda kullanılan yapay zeka algoritmalarıyla ilgilenen alan hangisidir?",
+        "choice1": "Grafik Programlama",
+        "choice2": "Oyun Fiziği",
+        "choice3": "Yapay Zeka",
+        "choice4": "Veritabanı Yönetimi",
+        "reply": "Yapay Zeka"
+      },
+      {
+        "questionTitle": "Oyunlarda kullanılan animasyon tekniklerinden biri hangisidir?",
+        "choice1": "3D Printing",
+        "choice2": "Motion Capture",
+        "choice3": "Virtual Reality",
+        "choice4": "Augmented Reality",
+        "reply": "Motion Capture"
+      },
+      {
+        "questionTitle": "Hangisi bir oyun testi türü değildir?",
+        "choice1": "Unit Test",
+        "choice2": "Functional Test",
+        "choice3": "Load Test",
+        "choice4": "Integration Test",
+        "reply": "Unit Test"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "img": "https://www.hayatinici.com/images/b3c5853697b23566a50ec3349e20db79.webp",
+    "categories": "oyun",
+    "name": "Oyun İlgi Alanları",
+    "difficulty": "Kolay",
+    "question": [
+      {
+        "questionTitle": "Hangisi bir masaüstü oyunudur?",
+        "choice1": "Monopoly",
+        "choice2": "Clash of Clans",
+        "choice3": "PUBG",
+        "choice4": "Candy Crush Saga",
+        "reply": "Monopoly"
+      },
+      {
+        "questionTitle": "Hangisi bir kart oyunudur?",
+        "choice1": "Angry Birds",
+        "choice2": "Hearthstone",
+        "choice3": "GTA V",
+        "choice4": "Fortnite",
+        "reply": "Hearthstone"
+      },
+      {
+        "questionTitle": "Hangisi bir rol yapma oyunudur?",
+        "choice1": "Dungeons & Dragons",
+        "choice2": "Candy Crush Saga",
+        "choice3": "Clash Royale",
+        "choice4": "Angry Birds",
+        "reply": "Dungeons & Dragons"
+      },
+      {
+        "questionTitle": "Hangisi bir strateji kart oyunudur?",
+        "choice1": "Magic: The Gathering",
+        "choice2": "Pokémon GO",
+        "choice3": "Grand Theft Auto",
+        "choice4": "Fortnite",
+        "reply": "Magic: The Gathering"
+      },
+      {
+        "questionTitle": "Hangisi bir yarış oyunudur?",
+        "choice1": "Minecraft",
+        "choice2": "Candy Crush Saga",
+        "choice3": "Need for Speed",
+        "choice4": "Angry Birds",
+        "reply": "Need for Speed"
+      },
+      {
+        "questionTitle": "Hangisi bir bulmaca oyunudur?",
+        "choice1": "Clash of Clans",
+        "choice2": "Tetris",
+        "choice3": "Fortnite",
+        "choice4": "Grand Theft Auto",
+        "reply": "Tetris"
+      },
+      {
+        "questionTitle": "Hangisi bir aksiyon-macera oyunudur?",
+        "choice1": "Candy Crush Saga",
+        "choice2": "The Legend of Zelda",
+        "choice3": "Pokémon GO",
+        "choice4": "Angry Birds",
+        "reply": "The Legend of Zelda"
+      },
+      {
+        "questionTitle": "Hangisi bir spor oyunudur?",
+        "choice1": "Clash of Clans",
+        "choice2": "FIFA",
+        "choice3": "Fortnite",
+        "choice4": "Grand Theft Auto",
+        "reply": "FIFA"
+      },
+      {
+        "questionTitle": "Hangisi bir aksiyon oyunudur?",
+        "choice1": "Candy Crush Saga",
+        "choice2": "Fortnite",
+        "choice3": "The Sims",
+        "choice4": "Angry Birds",
+        "reply": "Fortnite"
+      },
+      {
+        "questionTitle": "Hangisi bir simülasyon oyunudur?",
+        "choice1": "Clash of Clans",
+        "choice2": "The Sims",
+        "choice3": "Pokémon GO",
+        "choice4": "Angry Birds",
+        "reply": "The Sims"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "img": "https://ares.shiftdelete.net/2021/03/iste-2021-yilinin-en-cok-satan-10-oyunu-10.jpg",
+    "categories": "oyun",
+    "name": "Oyunlar ve Tarihleri",
+    "difficulty": "Orta",
+    "question": [
+      {
+        "questionTitle": "Hangisi ilk olarak piyasaya sürülen oyunlardan biridir?",
+        "choice1": "Pac-Man",
+        "choice2": "Super Mario Bros.",
+        "choice3": "Tetris",
+        "choice4": "The Legend of Zelda",
+        "reply": "Tetris"
+      },
+      {
+        "questionTitle": "Hangisi 2000'li yılların başında piyasaya sürülen bir oyun değildir?",
+        "choice1": "Grand Theft Auto: San Andreas",
+        "choice2": "The Elder Scrolls IV: Oblivion",
+        "choice3": "Halo: Combat Evolved",
+        "choice4": "Minecraft",
+        "reply": "Minecraft"
+      },
+      {
+        "questionTitle": "Hangisi 1990'lı yıllarda piyasaya sürülen bir oyun değildir?",
+        "choice1": "Super Mario 64",
+        "choice2": "Final Fantasy VII",
+        "choice3": "Diablo II",
+        "choice4": "Half-Life 2",
+        "reply": "Half-Life 2"
+      },
+      {
+        "questionTitle": "Hangisi 2010'lu yılların başında piyasaya sürülen bir oyun değildir?",
+        "choice1": "Red Dead Redemption",
+        "choice2": "The Last of Us",
+        "choice3": "Minecraft",
+        "choice4": "The Witcher 3: Wild Hunt",
+        "reply": "Minecraft"
+      },
+      {
+        "questionTitle": "Hangisi 1980'li yıllarda piyasaya sürülen bir oyun değildir?",
+        "choice1": "Space Invaders",
+        "choice2": "Super Mario Bros.",
+        "choice3": "The Legend of Zelda",
+        "choice4": "Pac-Man",
+        "reply": "Super Mario Bros."
+      },
+      {
+        "questionTitle": "Hangisi 2000'li yılların sonunda piyasaya sürülen bir oyun değildir?",
+        "choice1": "Dark Souls",
+        "choice2": "Uncharted 2: Among Thieves",
+        "choice3": "Portal 2",
+        "choice4": "World of Warcraft",
+        "reply": "World of Warcraft"
+      },
+      {
+        "questionTitle": "Hangisi 1970'li yıllarda piyasaya sürülen bir oyun değildir?",
+        "choice1": "Pong",
+        "choice2": "Space Invaders",
+        "choice3": "Breakout",
+        "choice4": "Tetris",
+        "reply": "Tetris"
+      },
+      {
+        "questionTitle": "Hangisi 1990'lı yılların sonunda piyasaya sürülen bir oyun değildir?",
+        "choice1": "Final Fantasy VIII",
+        "choice2": "Metal Gear Solid",
+        "choice3": "Counter-Strike",
+        "choice4": "Super Mario 64",
+        "reply": "Super Mario 64"
+      },
+      {
+        "questionTitle": "Hangisi 2010'lu yılların sonunda piyasaya sürülen bir oyun değildir?",
+        "choice1": "The Witcher 3: Wild Hunt",
+        "choice2": "Bloodborne",
+        "choice3": "Fortnite",
+        "choice4": "Grand Theft Auto V",
+        "reply": "Grand Theft Auto V"
+      },
+      {
+        "questionTitle": "Hangisi 1980'li yıllarda piyasaya sürülen bir oyun değildir?",
+        "choice1": "The Legend of Zelda",
+        "choice2": "Super Mario Bros.",
+        "choice3": "Tetris",
+        "choice4": "Pac-Man",
+        "reply": "Tetris"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "img": "https://www.donanimhaber.com/cache-v2/?t=20230423143052&width=-1&text=0&path=https://www.donanimhaber.com/images/images/haber/162936/600x338steam-platformundaki-ubisoft-oyunlari-artiyor.jpg",
+    "categories": "oyun",
+    "name": "Oyun Karakterleri",
+    "difficulty": "Kolay",
+    "question": [
+      {
+        "questionTitle": "Hangisi Super Mario oyun serisinde yer alan bir karakterdir?",
+        "choice1": "Sonic the Hedgehog",
+        "choice2": "Link",
+        "choice3": "Luigi",
+        "choice4": "Master Chief",
+        "reply": "Luigi"
+      },
+      {
+        "questionTitle": "Hangisi The Legend of Zelda serisinde yer alan bir karakterdir?",
+        "choice1": "Crash Bandicoot",
+        "choice2": "Zelda",
+        "choice3": "Gordon Freeman",
+        "choice4": "Nathan Drake",
+        "reply": "Zelda"
+      },
+      {
+        "questionTitle": "Hangisi Sonic the Hedgehog oyun serisinde yer alan bir karakterdir?",
+        "choice1": "Mario",
+        "choice2": "Tails",
+        "choice3": "Donkey Kong",
+        "choice4": "Kratos",
+        "reply": "Tails"
+      },
+      {
+        "questionTitle": "Hangisi Tomb Raider oyun serisinde yer alan bir karakterdir?",
+        "choice1": "Lara Croft",
+        "choice2": "Sonic the Hedgehog",
+        "choice3": "Ezio Auditore",
+        "choice4": "Nathan Drake",
+        "reply": "Lara Croft"
+      },
+      {
+        "questionTitle": "Hangisi Overwatch oyununda yer alan bir karakterdir?",
+        "choice1": "Geralt of Rivia",
+        "choice2": "Winston",
+        "choice3": "Commander Shepard",
+        "choice4": "Kratos",
+        "reply": "Winston"
+      },
+      {
+        "questionTitle": "Hangisi Assassin's Creed serisinde yer alan bir karakterdir?",
+        "choice1": "Mario",
+        "choice2": "Altair Ibn-La'Ahad",
+        "choice3": "Donkey Kong",
+        "choice4": "Master Chief",
+        "reply": "Altair Ibn-La'Ahad"
+      },
+      {
+        "questionTitle": "Hangisi God of War oyun serisinde yer alan bir karakterdir?",
+        "choice1": "Kratos",
+        "choice2": "Ezio Auditore",
+        "choice3": "Nathan Drake",
+        "choice4": "Luigi",
+        "reply": "Kratos"
+      },
+      {
+        "questionTitle": "Hangisi Fallout oyun serisinde yer alan bir karakterdir?",
+        "choice1": "Commander Shepard",
+        "choice2": "Winston",
+        "choice3": "Vault Boy",
+        "choice4": "Gordon Freeman",
+        "reply": "Vault Boy"
+      },
+      {
+        "questionTitle": "Hangisi Metal Gear Solid oyun serisinde yer alan bir karakterdir?",
+        "choice1": "Geralt of Rivia",
+        "choice2": "Solid Snake",
+        "choice3": "Lara Croft",
+        "choice4": "Zelda",
+        "reply": "Solid Snake"
+      },
+      {
+        "questionTitle": "Hangisi Halo oyun serisinde yer alan bir karakterdir?",
+        "choice1": "Tails",
+        "choice2": "Master Chief",
+        "choice3": "Altair Ibn-La'Ahad",
+        "choice4": "Commander Shepard",
+        "reply": "Master Chief"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "img": "https://ares.shiftdelete.net/2021/01/hikayesi-ile-one-cikan-oyunlar-bolum-1.jpg",
+    "categories": "oyun",
+    "name": "Oyun Olayları",
+    "difficulty": "Orta",
+    "question": [
+      {
+        "questionTitle": "Hangisi Call of Duty: Modern Warfare oyununda gerçekleşen bir olaydır?",
+        "choice1": "Zombie salgını",
+        "choice2": "Kurgusal bir dünya savaşı",
+        "choice3": "Soğuk Savaş dönemi",
+        "choice4": "Siber saldırı",
+        "reply": "Kurgusal bir dünya savaşı"
+      },
+      {
+        "questionTitle": "Hangisi Assassin's Creed serisinde yer alan bir tarihi olaydır?",
+        "choice1": "Amerikan Bağımsızlık Savaşı",
+        "choice2": "Fransız Devrimi",
+        "choice3": "İkinci Dünya Savaşı",
+        "choice4": "Apollo 11'in inişi",
+        "reply": "Fransız Devrimi"
+      },
+      {
+        "questionTitle": "Hangisi The Witcher 3: Wild Hunt oyununda gerçekleşen bir olaydır?",
+        "choice1": "Irkçı bir çatışma",
+        "choice2": "Maymunların hükümet kurması",
+        "choice3": "Korkunç bir siber saldırı",
+        "choice4": "Yöneticiler arasında bir büyü savaşı",
+        "reply": "Irkçı bir çatışma"
+      },
+      {
+        "questionTitle": "Hangisi Red Dead Redemption 2 oyununda gerçekleşen bir olaydır?",
+        "choice1": "I. Dünya Savaşı'nın patlak vermesi",
+        "choice2": "Meksika Devrimi",
+        "choice3": "Çin Seddi'nin inşası",
+        "choice4": "İlk uçak uçuşunun gerçekleşmesi",
+        "reply": "Meksika Devrimi"
+      },
+      {
+        "questionTitle": "Hangisi BioShock Infinite oyununda gerçekleşen bir olaydır?",
+        "choice1": "Gelecekteki bir robot ayaklanması",
+        "choice2": "Yüksek teknolojili bir soygun",
+        "choice3": "Alternatif bir tarih",
+        "choice4": "Bir hava şehri olan Columbia'nın keşfi",
+        "reply": "Bir hava şehri olan Columbia'nın keşfi"
+      },
+      {
+        "questionTitle": "Hangisi God of War (2018) oyununda gerçekleşen bir olaydır?",
+        "choice1": "Tanrıların evreni ele geçirmesi",
+        "choice2": "Antik Yunan mitolojisinin çöküşü",
+        "choice3": "İskandinav mitolojisindeki Ragnarok olayı",
+        "choice4": "Atlantis'in yükselişi",
+        "reply": "İskandinav mitolojisindeki Ragnarok olayı"
+      },
+      {
+        "questionTitle": "Hangisi Horizon Zero Dawn oyununda gerçekleşen bir olaydır?",
+        "choice1": "Yeraltı dünyasının keşfi",
+        "choice2": "Robotlar tarafından yönetilen bir distopya",
+        "choice3": "II. Dünya Savaşı'nın patlak vermesi",
+        "choice4": "Dünya üzerindeki tüm bitki örtüsünün yok olması",
+        "reply": "Robotlar tarafından yönetilen bir distopya"
+      },
+      {
+        "questionTitle": "Hangisi Mass Effect oyun serisinde gerçekleşen bir olaydır?",
+        "choice1": "Galaktik bir savaşın patlak vermesi",
+        "choice2": "Zaman yolculuğunun keşfi",
+        "choice3": "II. Dünya Savaşı'nın sonucunun değişmesi",
+        "choice4": "İnsanların uzaylılarla barış içinde yaşaması",
+        "reply": "Galaktik bir savaşın patlak vermesi"
+      },
+      {
+        "questionTitle": "Hangisi The Last of Us oyununda gerçekleşen bir olaydır?",
+        "choice1": "Bir zombi salgını",
+        "choice2": "Dünyanın sonunun gelmesi",
+        "choice3": "Mars'a insan kolonisi kurulması",
+        "choice4": "Bir uzay gemisinin kaybolması",
+        "reply": "Bir zombi salgını"
+      },
+      {
+        "questionTitle": "Hangisi Bioshock oyununda gerçekleşen bir olaydır?",
+        "choice1": "Dünya'nın sonunun gelmesi",
+        "choice2": "Yeraltında bir şehrin keşfi",
+        "choice3": "Alternatif bir tarih",
+        "choice4": "Uzayda bir koloninin kurulması",
+        "reply": "Yeraltında bir şehrin keşfi"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "img": "https://www.islamveihsan.com/wp-content/uploads/2022/09/soru-nedir-188672.jpg",
+    "categories": "mantik",
+    "name": "Mantık Soruları",
+    "difficulty": "Kolay",
+    "question": [
+      {
+        "questionTitle": "Bir meyve sepetinde 6 elma, 4 portakal ve 2 armut var. Sepette toplam kaç meyve vardır?",
+        "choice1": "10",
+        "choice2": "12",
+        "choice3": "14",
+        "choice4": "16",
+        "reply": "12"
+      },
+      {
+        "questionTitle": "Bir çantada 3 kırmızı, 5 mavi ve 2 yeşil top var. Çantadan rastgele çekilen bir topun mavi olma olasılığı nedir?",
+        "choice1": "1/4",
+        "choice2": "2/5",
+        "choice3": "5/10",
+        "choice4": "3/10",
+        "reply": "5/10"
+      },
+      {
+        "questionTitle": "Bir futbol takımında 10 forvet, 8 orta saha, 6 savunma oyuncusu ve 2 kaleci bulunmaktadır. Takımdan rastgele seçilen bir oyuncunun savunma oyuncusu olma olasılığı nedir?",
+        "choice1": "3/26",
+        "choice2": "1/6",
+        "choice3": "3/26",
+        "choice4": "6/26",
+        "reply": "6/26"
+      },
+      {
+        "questionTitle": "Bir kutuda 5 kırmızı, 3 mavi ve 4 yeşil top var. Kutudan rastgele çekilen bir topun kırmızı veya yeşil olma olasılığı nedir?",
+        "choice1": "9/12",
+        "choice2": "2/3",
+        "choice3": "11/12",
+        "choice4": "3/4",
+        "reply": "9/12"
+      },
+      {
+        "questionTitle": "Bir diziye 7. elemandan sonra eklenen her elemanın değeri bir önceki iki elemanın toplamına eşittir. Dizinin 8. elemanı kaçtır?",
+        "choice1": "21",
+        "choice2": "34",
+        "choice3": "55",
+        "choice4": "89",
+        "reply": "55"
+      },
+      {
+        "questionTitle": "Bir yarışta ilk turda bir araç 100 km, ikinci turda 80 km, üçüncü turda 60 km hızla gitmiştir. Ortalama hızı kaç km/saat'tir?",
+        "choice1": "60",
+        "choice2": "70",
+        "choice3": "80",
+        "choice4": "90",
+        "reply": "70"
+      },
+      {
+        "questionTitle": "Bir restoranda bir yemek için ödenen tutar 35 TL'dir. Restoranın hesabı %10 bahşiş dahil olarak toplam kaç TL'dir?",
+        "choice1": "35.5",
+        "choice2": "37.5",
+        "choice3": "38.5",
+        "choice4": "40",
+        "reply": "38.5"
+      },
+      {
+        "questionTitle": "Bir köprüden 5 saatte geçen bir tren, aynı köprüden geçen bir yaya ile karşılaşıyor. Yaya köprüyü geçerken trene göre 3 km/saat hızla yürüyor. Yaya köprüyü geçerken trenin hızı kaç km/saat'tir?",
+        "choice1": "9",
+        "choice2": "12",
+        "choice3": "15",
+        "choice4": "18",
+        "reply": "15"
+      },
+      {
+        "questionTitle": "Bir yüzme yarışında bir yüzücü 100 m'yi 60 saniyede tamamlıyor. Aynı hızda yüzen bir yüzücü 200 m'yi kaç saniyede tamamlar?",
+        "choice1": "80",
+        "choice2": "100",
+        "choice3": "120",
+        "choice4": "140",
+        "reply": "120"
+      },
+      {
+        "questionTitle": "Bir markette bir ürünün fiyatı 50 TL'dir. Bu ürüne %20 indirim uygulandığında indirimli fiyatı kaç TL olur?",
+        "choice1": "30",
+        "choice2": "35",
+        "choice3": "40",
+        "choice4": "45",
+        "reply": "40"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "img": "https://www.islamveihsan.com/wp-content/uploads/2022/09/soru-nedir-188672.jpg",
+    "categories": "mantik",
+    "name": "Mantık Problemleri",
+    "difficulty": "Orta",
+    "question": [
+      {
+        "questionTitle": "Bir bisiklet 10 km/h hızla ilerlerken ne kadar sürede 50 km yol alır?",
+        "choice1": "2.5 saat",
+        "choice2": "4 saat",
+        "choice3": "5 saat",
+        "choice4": "6.5 saat",
+        "reply": "5 saat"
+      },
+      {
+        "questionTitle": "Bir bahçede 15 adet kırmızı, 12 adet mavi ve 10 adet yeşil çiçek var. Bahçeden rastgele seçilen bir çiçeğin mavi veya yeşil olma olasılığı nedir?",
+        "choice1": "22/37",
+        "choice2": "12/37",
+        "choice3": "22/37",
+        "choice4": "15/37",
+        "reply": "22/37"
+      },
+      {
+        "questionTitle": "Bir araba 2 saatte 180 km yol alıyor. Aynı hızla giden bir diğer araba 3 saatte kaç km yol alır?",
+        "choice1": "180",
+        "choice2": "240",
+        "choice3": "270",
+        "choice4": "320",
+        "reply": "270"
+      },
+      {
+        "questionTitle": "Bir kitapta 200 sayfa var ve bir sayfayı okumak için 3 dakika harcanıyor. Kitabı okumakiçin kaç saat gerekmektedir?",
+        "choice1": "6",
+        "choice2": "9",
+        "choice3": "10",
+        "choice4": "12",
+        "reply": "10"
+      },
+      {
+        "questionTitle": "Bir tüccar, bir ürünü 120 TL'ye satın aldıktan sonra %25 kar marjı uygulayarak fiyatını belirliyor. Ürünün satış fiyatı kaç TL olur?",
+        "choice1": "140",
+        "choice2": "150",
+        "choice3": "160",
+        "choice4": "180",
+        "reply": "150"
+      },
+      {
+        "questionTitle": "Bir futbol takımında 11 oyuncu bulunmaktadır. Takımın 3 oyuncusu kaleci, 4 oyuncusu savunma, 3 oyuncusu orta saha ve 1 oyuncusu forvettir. Takımdan rastgele seçilen bir oyuncunun orta saha veya forvet olma olasılığı nedir?",
+        "choice1": "4/11",
+        "choice2": "3/11",
+        "choice3": "2/11",
+        "choice4": "1/11",
+        "reply": "4/11"
+      },
+      {
+        "questionTitle": "Bir köpek, 1 saatte 2 km yol alabiliyor. Aynı hızda giden başka bir köpek 3 saatte kaç km yol alır?",
+        "choice1": "2",
+        "choice2": "4",
+        "choice3": "6",
+        "choice4": "8",
+        "reply": "6"
+      },
+      {
+        "questionTitle": "Bir marketteki bir ürünün fiyatı 80 TL olarak belirlenmiştir. Ürün üzerinde %15 indirim uygulandığında yeni fiyatı kaç TL olur?",
+        "choice1": "60",
+        "choice2": "68",
+        "choice3": "72",
+        "choice4": "85",
+        "reply": "68"
+      },
+      {
+        "questionTitle": "Bir mağazada bir ürünün fiyatı %30 indirimli olarak 70 TL olarak belirlenmiştir. Ürünün indirimli fiyatı kaç TL'dir?",
+        "choice1": "49",
+        "choice2": "52",
+        "choice3": "56",
+        "choice4": "63",
+        "reply": "49"
+      },
+      {
+        "questionTitle": "Bir yarışta bir at 3. olmuştur. Önünde kaç at vardır?",
+        "choice1": "1",
+        "choice2": "2",
+        "choice3": "3",
+        "choice4": "4",
+        "reply": "2"
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "img": "https://www.islamveihsan.com/wp-content/uploads/2022/09/soru-nedir-188672.jpg",
+    "categories": "mantik",
+    "name": "Mantık Akıl Yürütme",
+    "difficulty": "Zor",
+    "question": [
+      {
+        "questionTitle": "Bir sınıfta 20 erkek öğrenci ve 15 kız öğrenci bulunmaktadır. Sınıftan rastgele seçilen bir öğrencinin erkek olma olasılığı nedir?",
+        "choice1": "2/7",
+        "choice2": "3/7",
+        "choice3": "2/5",
+        "choice4": "3/5",
+        "reply": "2/5"
+      },
+      {
+        "questionTitle": "Bir çantada 4 kırmızı, 6 mavi ve 5 yeşil top var. Çantadan rastgele çekilen bir topun yeşil olma olasılığı nedir?",
+        "choice1": "5/15",
+        "choice2": "6/15",
+        "choice3": "3/10",
+        "choice4": "1/3",
+        "reply": "5/15"
+      },
+      {
+        "questionTitle": "Bir kutuda 8 kırmızı, 5 mavi ve 7 yeşil top var. Kutudan rastgele çekilen bir topun kırmızı veya yeşil olma olasılığı nedir?",
+        "choice1": "15/20",
+        "choice2": "8/20",
+        "choice3": "9/20",
+        "choice4": "13/20",
+        "reply": "15/20"
+      },
+      {
+        "questionTitle": "Bir futbol takımında 15 forvet, 10 orta saha, 8 savunma oyuncusu ve 2 kaleci bulunmaktadır. Takımdan rastgele seçilen bir oyuncunun forvet veya savunma oyuncusu olma olasılığı nedir?",
+        "choice1": "23/35",
+        "choice2": "15/35",
+        "choice3": "25/35",
+        "choice4": "18/35",
+        "reply": "23/35"
+      },
+      {
+        "questionTitle": "Bir kutuda 5 kırmızı, 3 mavi ve 4 yeşil top var. Kutudan rastgele çekilen bir topun kırmızı veya mavi olma olasılığı nedir?",
+        "choice1": "8/12",
+        "choice2": "2/3",
+        "choice3": "9/12",
+        "choice4": "3/4",
+        "reply": "8/12"
+      },
+      {
+        "questionTitle": "Bir sınavda 40 soru bulunmaktadır. Öğrenci 30 soruyu doğru yanıtladığında kaç puan alır?",
+        "choice1": "20",
+        "choice2": "25",
+        "choice3": "30",
+        "choice4": "35",
+        "reply": "25"
+      },
+      {
+        "questionTitle": "Bir partiye davet edilenlerin listesinde 50 erkek ve 40 kadın bulunmaktadır. Partiye gelen bir kişi rastgele seçildiğinde erkek olma olasılığı nedir?",
+        "choice1": "5/9",
+        "choice2": "5/8",
+        "choice3": "4/9",
+        "choice4": "4/8",
+        "reply": "5/9"
+      },
+      {
+        "questionTitle": "Bir futbol maçında bir takımın 5 şutu gol olmuş, 3 şutu ise auta gitmiştir. Takımın gol olma olasılığı nedir?",
+        "choice1": "5/8",
+        "choice2": "3/8",
+        "choice3": "5/3",
+        "choice4": "3/5",
+        "reply": "5/8"
+      },
+      {
+        "questionTitle": "Bir tiyatro oyununda 8 erkek ve 6 kadın oyuncu bulunmaktadır. Oyunda rastgele seçilen bir oyuncunun kadın olma olasılığı nedir?",
+        "choice1": "6/14",
+        "choice2": "2/7",
+        "choice3": "3/8",
+        "choice4": "6/8",
+        "reply": "6/14"
+      },
+      {
+        "questionTitle": "Bir partiye davet edilenlerin listesinde 60 kişi bulunmaktadır. Partiye gelen bir kişi rastgele seçildiğinde partiye katılan kişinin kadın olma olasılığı 1/4'tür. Partiye gelen kişinin erkek olma olasılığı nedir?",
+        "choice1": "3/4",
+        "choice2": "2/3",
+        "choice3": "1/2",
+        "choice4": "1/4",
+        "reply": "3/4"
+      },
+      {
+        "questionTitle": "Bir futbol maçında bir takımın 8 şutu gol olmuş, 6 şutu ise auta gitmiştir. Takımın auta gitme olasılığı nedir?",
+        "choice1": "6/14",
+        "choice2": "2/7",
+        "choice3": "6/14",
+        "choice4": "3/7",
+        "reply": "3/7"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "img": "https://www.islamveihsan.com/wp-content/uploads/2022/09/soru-nedir-188672.jpg",
+    "categories": "mantik",
+    "name": "Mantık ve Matematik",
+    "difficulty": "Orta",
+    "question": [
+      {
+        "questionTitle": "Bir mağazada bir ürünün fiyatı %20 indirimli olarak 80 TL olarak belirlenmiştir. Ürünün indirimli fiyatı ne kadardır?",
+        "choice1": "64 TL",
+        "choice2": "68 TL",
+        "choice3": "76 TL",
+        "choice4": "84 TL",
+        "reply": "64 TL"
+      },
+      {
+        "questionTitle": "Bir restoranda bir yemek için ödenen tutar 50 TL'dir. Restoranın hesabı %15 bahşiş dahil olarak toplam kaç TL'dir?",
+        "choice1": "57.5",
+        "choice2": "57",
+        "choice3": "52.5",
+        "choice4": "60",
+        "reply": "57.5"
+      },
+      {
+        "questionTitle": "Bir mağazada bir ürünün fiyatı 120 TL. Ürün fiyatı %25 indirimli olarak belirlenirse yeni fiyatı kaç TL olur?",
+        "choice1": "90 TL",
+        "choice2": "96 TL",
+        "choice3": "100 TL",
+        "choice4": "105 TL",
+        "reply": "90 TL"
+      },
+      {
+        "questionTitle": "Bir restoranda bir yemek için ödenen tutar 50 TL'dir. Restoranın hesabı %20 bahşiş dahil olarak toplam kaç TL'dir?",
+        "choice1": "55",
+        "choice2": "52.5",
+        "choice3": "60",
+        "choice4": "48",
+        "reply": "60"
+      },
+      {
+        "questionTitle": "Bir markette bir ürünün fiyatı 80 TL olarak belirlenmiştir. Ürün üzerinde %10 indirim uygulandığında yeni fiyatı kaç TL olur?",
+        "choice1": "70",
+        "choice2": "72",
+        "choice3": "75",
+        "choice4": "84",
+        "reply": "72"
+      },
+      {
+        "questionTitle": "Bir mağazada bir ürünün fiyatı 120 TL olarak belirlenmiştir. Ürün üzerinde %15 indirim uygulandığında yeni fiyatı kaç TL olur?",
+        "choice1": "102",
+        "choice2": "105",
+        "choice3": "115",
+        "choice4": "90",
+        "reply": "102"
+      },
+      {
+        "questionTitle": "Bir yarışta bir koşucu 100 m'yi 12 saniyede tamamlıyor. Aynı hızda koşan bir koşucu 200 m'yi kaç saniyede tamamlar?",
+        "choice1": "24",
+        "choice2": "25",
+        "choice3": "26",
+        "choice4": "27",
+        "reply": "24"
+      },
+      {
+        "questionTitle": "Bir mağazada bir ürünün fiyatı 200 TL olarak belirlenmiştir. Ürün üzerinde %30 indirim uygulandığında yeni fiyatı kaç TL olur?",
+        "choice1": "140",
+        "choice2": "160",
+        "choice3": "180",
+        "choice4": "220",
+        "reply": "140"
+      },
+      {
+        "questionTitle": "Bir restoranda bir yemek için ödenen tutar 75 TL'dir. Restoranın hesabı %10 bahşiş dahil olarak toplam kaç TL'dir?",
+        "choice1": "78.5",
+        "choice2": "82.5",
+        "choice3": "80",
+        "choice4": "75",
+        "reply": "82.5"
+      },
+      {
+        "questionTitle": "Bir markette bir ürünün fiyatı 80 TL olarak belirlenmiştir. Ürün üzerinde %25 indirim uygulandığında yeni fiyatı kaç TL olur?",
+        "choice1": "60",
+        "choice2": "65",
+        "choice3": "70",
+        "choice4": "75",
+        "reply": "60"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "img": "https://www.islamveihsan.com/wp-content/uploads/2022/09/soru-nedir-188672.jpg",
+    "categories": "mantik",
+    "name": "Mantık ve Dikkat",
+    "difficulty": "Kolay",
+    "question": [
+      {
+        "questionTitle": "Bir suda yüzen 5 ördek var. Bir avcı ördeklerden 2'sini vuruyor. Geriye kaç ördek kalır?",
+        "choice1": "2",
+        "choice2": "3",
+        "choice3": "4",
+        "choice4": "5",
+        "reply": "3"
+      },
+      {
+        "questionTitle": "Bir restoranda 10 adet masa bulunmaktadır. Her masada 4 kişi oturduğunda toplam kaç kişi oturur?",
+        "choice1": "30",
+        "choice2": "36",
+        "choice3": "40",
+        "choice4": "44",
+        "reply": "40"
+      },
+      {
+        "questionTitle": "Bir futbol maçında bir takımın 3 oyuncusu sarı kart, 2 oyuncusu ise kırmızı kart görmüştür. Takımda kaç oyuncu kalmıştır?",
+        "choice1": "7",
+        "choice2": "8",
+        "choice3": "9",
+        "choice4": "10",
+        "reply": "8"
+      },
+      {
+        "questionTitle": "Bir sınıfta 20 erkek ve 15 kız öğrenci bulunmaktadır. Sınıfta toplam kaç öğrenci vardır?",
+        "choice1": "35",
+        "choice2": "40",
+        "choice3": "45",
+        "choice4": "50",
+        "reply": "35"
+      },
+      {
+        "questionTitle": "Bir markette 10 adet elma, 7 adet armut ve 5 adet muz bulunmaktadır. Marketten kaç meyve satın alınmıştır?",
+        "choice1": "17",
+        "choice2": "20",
+        "choice3": "22",
+        "choice4": "25",
+        "reply": "22"
+      },
+      {
+        "questionTitle": "Bir mağazada bir ürünün fiyatı 120 TL olarak belirlenmiştir. Ürün üzerinde %15 indirim uygulandığında yeni fiyatı kaç TL olur?",
+        "choice1": "102",
+        "choice2": "108",
+        "choice3": "110",
+        "choice4": "125",
+        "reply": "102"
+      },
+      {
+        "questionTitle": "Bir tiyatro oyununda 5 erkek ve 3 kadın oyuncu bulunmaktadır. Oyunda toplamkaç oyuncu vardır?",
+        "choice1": "7",
+        "choice2": "8",
+        "choice3": "9",
+        "choice4": "10",
+        "reply": "8"
+      },
+      {
+        "questionTitle": "Bir sınıfta 25 öğrenci bulunmaktadır. Sınıfta 15 erkek ve 10 kız öğrenci olduğuna göre erkek öğrencilerin oranı kaçtır?",
+        "choice1": "3/5",
+        "choice2": "2/5",
+        "choice3": "3/4",
+        "choice4": "2/3",
+        "reply": "3/5"
+      },
+      {
+        "questionTitle": "Bir restoranda 10 adet masa bulunmaktadır. Her masada 3 kişi oturduğunda toplam kaç kişi oturur?",
+        "choice1": "20",
+        "choice2": "25",
+        "choice3": "30",
+        "choice4": "35",
+        "reply": "30"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "img": "https://www.islamveihsan.com/wp-content/uploads/2022/09/soru-nedir-188672.jpg",
+    "categories": "mantik",
+    "name": "Mantık ve Karar Verme",
+    "difficulty": "Orta",
+    "question": [
+      {
+        "questionTitle": "Bir mağazada bir ürünün fiyatı 120 TL olarak belirlenmiştir. Ürün üzerinde %10 indirim uygulandığında yeni fiyatı kaç TL olur?",
+        "choice1": "108",
+        "choice2": "110",
+        "choice3": "112",
+        "choice4": "115",
+        "reply": "108"
+      },
+      {
+        "questionTitle": "Bir restoranda bir yemek için ödenen tutar 50 TL'dir. Restoranın hesabı %20 bahşiş dahil olarak toplam kaç TL'dir?",
+        "choice1": "55",
+        "choice2": "52",
+        "choice3": "60",
+        "choice4": "48",
+        "reply": "60"
+      },
+      {
+        "questionTitle": "Bir markette bir ürünün fiyatı 80 TL olarak belirlenmiştir. Ürün üzerinde %25 indirim uygulandığında yeni fiyatı kaç TL olur?",
+        "choice1": "60",
+        "choice2": "65",
+        "choice3": "70",
+        "choice4": "75",
+        "reply": "60"
+      },
+      {
+        "questionTitle": "Bir futbol maçında bir takımın 6 oyuncusu sarı kart, 3 oyuncusu ise kırmızı kart görmüştür. Takımda kaç oyuncu kalmıştır?",
+        "choice1": "8",
+        "choice2": "9",
+        "choice3": "10",
+        "choice4": "11",
+        "reply": "11"
+      },
+      {
+        "questionTitle": "Bir mağazada bir ürünün fiyatı 200 TL olarak belirlenmiştir. Ürün üzerinde %30 indirim uygulandığında yeni fiyatı kaç TL olur?",
+        "choice1": "140",
+        "choice2": "160",
+        "choice3": "180",
+        "choice4": "220",
+        "reply": "140"
+      },
+      {
+        "questionTitle": "Bir restoranda bir yemek için ödenen tutar 75 TL'dir. Restoranın hesabı %10 bahşiş dahil olarak toplam kaç TL'dir?",
+        "choice1": "78.5",
+        "choice2": "82.5",
+        "choice3": "80",
+        "choice4": "75",
+        "reply": "82.5"
+      },
+      {
+        "questionTitle": "Bir markette bir ürünün fiyatı 80 TL olarak belirlenmiştir. Ürün üzerinde %15 indirim uygulandığında yeni fiyatı kaç TL olur?",
+        "choice1": "68",
+        "choice2": "72",
+        "choice3": "75",
+        "choice4": "84",
+        "reply": "68"
+      },
+      {
+        "questionTitle": "Bir yüzme yarışında bir yüzücü 100 m'yi 60 saniyede tamamlıyor. Aynı hızda yüzen bir yüzücü 200 m'yi kaç saniyede tamamlar?",
+        "choice1": "120",
+        "choice2": "130",
+        "choice3": "140",
+        "choice4": "150",
+        "reply": "120"
+      },
+      {
+        "questionTitle": "Bir mağazada bir ürünün fiyatı 120 TL olarak belirlenmiştir. Ürün üzerinde %20 indirim uygulandığında yeni fiyatı kaç TL olur?",
+        "choice1": "96",
+        "choice2": "100",
+        "choice3": "105",
+        "choice4": "110",
+        "reply": "96"
+      }
+    ]
+  }
+]

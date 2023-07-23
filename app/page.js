@@ -1,95 +1,42 @@
-import Image from 'next/image'
-import styles from './page.module.css'
+"use client";
+
+import styles from "./page.module.css";
+import { motion } from "framer-motion";
+import api from "../json/quiz.json";
+import QuizContainer from "@/components/quizContainer";
+import Image from "next/image";
+import quiz from "../assets/quiz.svg";
 
 export default function Home() {
   return (
-    <main className={styles.main}>
-      <div className={styles.description}>
-        <p>
-          Get started by editing&nbsp;
-          <code className={styles.code}>app/page.js</code>
-        </p>
-        <div>
-          <a
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            By{' '}
-            <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
-              className={styles.vercelLogo}
-              width={100}
-              height={24}
-              priority
-            />
-          </a>
-        </div>
-      </div>
-
-      <div className={styles.center}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js Logo"
-          width={180}
-          height={37}
-          priority
-        />
-      </div>
-
-      <div className={styles.grid}>
-        <a
-          href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Docs <span>-&gt;</span>
-          </h2>
-          <p>Find in-depth information about Next.js features and API.</p>
-        </a>
-
-        <a
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Learn <span>-&gt;</span>
-          </h2>
-          <p>Learn about Next.js in an interactive course with&nbsp;quizzes!</p>
-        </a>
-
-        <a
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Templates <span>-&gt;</span>
-          </h2>
-          <p>Explore the Next.js 13 playground.</p>
-        </a>
-
-        <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Deploy <span>-&gt;</span>
-          </h2>
+    <motion.main
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      className={styles.main}
+    >
+      <div className={styles.pageMain}>
+        <div className={styles.left}>
+          <h1>Quiz App</h1>
           <p>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
+            Merhaba ve hoş geldiniz! Sizleri Quiz App'e beklerken heyecanla
+            karşılıyoruz. Bu interaktif quiz uygulaması, oyun, bilim, yazılım ve
+            mantıkla ilgili soruları içeriyor. Soruları çözerken hem keyifli
+            vakit geçiriyor, hem de bilgi birikiminizi artırma fırsatı
+            yakalıyorsunuz. Bu deneyimi yaşarken sınırlarınızı zorlayacak ve
+            zihinsel yeteneklerinizi geliştireceksiniz. Hadi şimdi başlayalım ve
+            bu eşsiz quiz deneyimine birlikte dalalım!
           </p>
-        </a>
+        </div>
+        <Image src={quiz} alt="" />
       </div>
-    </main>
-  )
+
+      <div className={styles.quizTitle}>
+        <div className={styles.title}>Quiz Questions</div>
+        <div className={styles.border1}></div>
+        <div className={styles.border2}></div>
+      </div>
+
+      <QuizContainer api={api} />
+    </motion.main>
+  );
 }

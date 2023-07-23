@@ -1,0 +1,20 @@
+.button {
+  padding: 1.5rem 3rem;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  border-radius: 12px;
+  transition: 300ms ease-in-out;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button svg {
+  margin-left: 5px;
+}
+
+.button:hover {
+  background-color: rgb(207, 207, 207);
+  transform: scale(1.04);
+}

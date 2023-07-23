@@ -1,0 +1,41 @@
+.choice {
+  width: 100%;
+  height: 100%;
+  border: 2px solid rgb(200, 200, 200);
+  padding: 1.2rem;
+  border-radius: 12px;
+  background-color: rgba(212, 212, 212, 0.15);
+  text-align: start;
+  margin: 10px 5px;
+  font-size: 17px;
+  transition: 200ms ease-in;
+  color: white;
+  cursor: pointer;
+}
+
+.choice:hover {
+  background-color: rgba(30, 255, 0, 0.6);
+  color: white;
+  transform: scale(0.98);
+}
+
+.choiceActive {
+  width: 100%;
+  height: 100%;
+  border: 2px solid gray;
+  padding: 1.2rem;
+  border-radius: 12px;
+  text-align: start;
+  margin: 10px 5px;
+  font-size: 17px;
+  background-color: rgba(30, 255, 0, 0.6);
+  color: white;
+  transition: 200ms ease-in;
+  cursor: pointer;
+}
+
+.choiceActive:hover {
+  background-color: rgba(30, 255, 0, 0.6);
+  color: white;
+  transform: scale(0.98);
+}

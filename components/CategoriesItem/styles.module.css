@@ -1,0 +1,16 @@
+.CategoriesItem {
+  font-size: 18px;
+  transition: 300ms ease-in-out;
+  padding: 5px 10px;
+  border-bottom: 2px solid transparent;
+}
+
+.CategoriesItem:hover {
+  padding: 5px 20px;
+  border-bottom: 2px solid #ffffff;
+  transform: scale(1.1);
+}
+
+.CategoriesItem p {
+  padding: 5px 0;
+}
